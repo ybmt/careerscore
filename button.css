@@ -1,0 +1,31 @@
+button {
+    font-family: Montserrat, sans-serif;
+    text-align: center;
+    position: relative;
+    transition: .5s ease;
+    bottom: 5%;
+    right: 4%;
+    z-index: 1;
+    background-color: #92C43D;
+    color: #fff;
+    font-size: 24px;
+    border: 0px !important;
+
+}
+
+button:focus, button:hover {
+    text-decoration: none;
+    color: #ccc;
+
+}
+
+.cta{
+    text-align: center;
+}
+
+.button{
+    height:200px;
+    width:200px;
+}
+
+

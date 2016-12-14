@@ -1,0 +1,11 @@
+var header = $('.navbar > .container');
+header.append('<div id="fb-root"></div><div id="share-buttons" style="margin-top:-40px">   <a href="https://twitter.com/home?status=Insights%20from%20analyzing%20over%2035%2C000%20web%20developer%20job%20postings%20by%20%40mycareerscore.%20https%3A%2F%2Fcareerscore.com%2Finsights" target="_blank">      <img src="twitter.png" alt="Twitter" height="30" width="30" align="right" style="position:absolute; top:12px; right:120px;" hspace="3" />   </a>   <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//careerscore.com/insights&title=Insights%20from%20analyzing%20over%2035,000%20web%20developer%20job%20postings.&summary=This%20dataset%20is%20provided%20by%20Careerscore%27s%20database.%20We%20analyzed%20over%2035,000%20web%20developer%20job%20postings%20from%202015%20to%202016%20for%20each%20state%20in%20the%20US.&source=" target="_blank">		<img src="linkedin.png" alt="LinkedIn" height="30" width="30" align="right" style="position:absolute; top:12px; right:85px;" hspace="3" />	</a>	<div class="fb-share-button" data-href="https://careerscore.com/insights" data-layout="button" data-size="small" data-mobile-iframe="true" style="position:absolute; right:160px; top:15px;">		<a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcareerscore.com%2Finsights&amp;src=sdkpreparse">Share</a>	</div></div>');
+
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, "script", "facebook-jssdk"));

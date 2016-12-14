@@ -1,0 +1,2701 @@
+Title,Skill,num,Ordinal
+.NET Application Developer,.NET,549.0,0.0
+.NET Application Developer,SQL,422.0,1.0
+.NET Application Developer,C#,393.0,2.0
+.NET Application Developer,Software,331.0,3.0
+.NET Application Developer,ASP.NET,278.0,4.0
+.NET Application Developer,IT,266.0,5.0
+.NET Application Developer,Testing,236.0,6.0
+.NET Application Developer,JavaScript,234.0,7.0
+.NET Application Developer,Communications,227.0,8.0
+.NET Application Developer,Management,214.0,9.0
+.NET Application Developer,jQuery,190.0,10.0
+.NET Application Developer,Computer Science,187.0,11.0
+.NET Application Developer,SQL Server,187.0,12.0
+.NET Application Developer,Programming,185.0,13.0
+.NET Application Developer,Database,171.0,14.0
+.NET Application Developer,MVC,169.0,15.0
+.NET Application Developer,HTML,164.0,16.0
+.NET Application Developer,CSS,155.0,17.0
+.NET Application Developer,Framework,150.0,18.0
+.NET Application Developer,Implementation,150.0,19.0
+.NET Architect,.NET,310.0,0.0
+.NET Architect,Software,201.0,1.0
+.NET Architect,SQL,199.0,2.0
+.NET Architect,Architecture,189.0,3.0
+.NET Architect,C#,173.0,4.0
+.NET Architect,IT,151.0,5.0
+.NET Architect,Communications,139.0,6.0
+.NET Architect,MVC,138.0,7.0
+.NET Architect,ASP.NET,132.0,8.0
+.NET Architect,Management,131.0,9.0
+.NET Architect,SQL Server,108.0,10.0
+.NET Architect,Agile,107.0,11.0
+.NET Architect,JavaScript,107.0,12.0
+.NET Architect,Integration,98.0,13.0
+.NET Architect,Testing,97.0,14.0
+.NET Architect,Leadership,94.0,15.0
+.NET Architect,Framework,93.0,16.0
+.NET Architect,WCF,93.0,17.0
+.NET Architect,Implementation,92.0,18.0
+.NET Architect,Programming,80.0,19.0
+.NET Developer,.NET,9582.0,0.0
+.NET Developer,C#,7170.0,1.0
+.NET Developer,SQL,7052.0,2.0
+.NET Developer,Software,5573.0,3.0
+.NET Developer,ASP.NET,4842.0,4.0
+.NET Developer,JavaScript,4618.0,5.0
+.NET Developer,MVC,4154.0,6.0
+.NET Developer,IT,3931.0,7.0
+.NET Developer,SQL Server,3366.0,8.0
+.NET Developer,Framework,3322.0,9.0
+.NET Developer,Management,3301.0,10.0
+.NET Developer,Testing,3279.0,11.0
+.NET Developer,Communications,3196.0,12.0
+.NET Developer,Programming,3058.0,13.0
+.NET Developer,jQuery,2889.0,14.0
+.NET Developer,HTML,2857.0,15.0
+.NET Developer,Agile,2733.0,16.0
+.NET Developer,Database,2701.0,17.0
+.NET Developer,CSS,2567.0,18.0
+.NET Developer,Integration,2353.0,19.0
+.NET Software Developer,Software,791.0,0.0
+.NET Software Developer,.NET,768.0,1.0
+.NET Software Developer,SQL,600.0,2.0
+.NET Software Developer,C#,570.0,3.0
+.NET Software Developer,ASP.NET,406.0,4.0
+.NET Software Developer,IT,362.0,5.0
+.NET Software Developer,JavaScript,360.0,6.0
+.NET Software Developer,MVC,356.0,7.0
+.NET Software Developer,Management,333.0,8.0
+.NET Software Developer,Programming,308.0,9.0
+.NET Software Developer,Communications,296.0,10.0
+.NET Software Developer,SQL Server,292.0,11.0
+.NET Software Developer,Testing,273.0,12.0
+.NET Software Developer,Database,263.0,13.0
+.NET Software Developer,Integration,259.0,14.0
+.NET Software Developer,Computer Science,241.0,15.0
+.NET Software Developer,Framework,240.0,16.0
+.NET Software Developer,Agile,238.0,17.0
+.NET Software Developer,HTML,214.0,18.0
+.NET Software Developer,Visual Studio,209.0,19.0
+.NET Software Engineer,Software,554.0,0.0
+.NET Software Engineer,.NET,530.0,1.0
+.NET Software Engineer,C#,462.0,2.0
+.NET Software Engineer,SQL,439.0,3.0
+.NET Software Engineer,ASP.NET,311.0,4.0
+.NET Software Engineer,JavaScript,300.0,5.0
+.NET Software Engineer,Communications,276.0,6.0
+.NET Software Engineer,Engineering,266.0,7.0
+.NET Software Engineer,Computer Science,252.0,8.0
+.NET Software Engineer,IT,252.0,9.0
+.NET Software Engineer,Agile,233.0,10.0
+.NET Software Engineer,jQuery,221.0,11.0
+.NET Software Engineer,Programming,218.0,12.0
+.NET Software Engineer,Testing,215.0,13.0
+.NET Software Engineer,SQL Server,209.0,14.0
+.NET Software Engineer,Database,208.0,15.0
+.NET Software Engineer,MVC,195.0,16.0
+.NET Software Engineer,Management,190.0,17.0
+.NET Software Engineer,Framework,179.0,18.0
+.NET Software Engineer,CSS,175.0,19.0
+.NET Web Developer,.NET,997.0,0.0
+.NET Web Developer,C#,792.0,1.0
+.NET Web Developer,SQL,784.0,2.0
+.NET Web Developer,ASP.NET,686.0,3.0
+.NET Web Developer,JavaScript,667.0,4.0
+.NET Web Developer,MVC,590.0,5.0
+.NET Web Developer,Software,473.0,6.0
+.NET Web Developer,IT,451.0,7.0
+.NET Web Developer,HTML,450.0,8.0
+.NET Web Developer,Framework,428.0,9.0
+.NET Web Developer,CSS,423.0,10.0
+.NET Web Developer,jQuery,418.0,11.0
+.NET Web Developer,SQL Server,408.0,12.0
+.NET Web Developer,Communications,382.0,13.0
+.NET Web Developer,Management,337.0,14.0
+.NET Web Developer,Computer Science,294.0,15.0
+.NET Web Developer,Testing,293.0,16.0
+.NET Web Developer,Visual Studio,286.0,17.0
+.NET Web Developer,Database,282.0,18.0
+.NET Web Developer,XML,270.0,19.0
+.NET/C# Developer,C#,1636.0,0.0
+.NET/C# Developer,.NET,1566.0,1.0
+.NET/C# Developer,SQL,1198.0,2.0
+.NET/C# Developer,C# .net,1005.0,3.0
+.NET/C# Developer,Software,921.0,4.0
+.NET/C# Developer,ASP.NET,737.0,5.0
+.NET/C# Developer,IT,667.0,6.0
+.NET/C# Developer,JavaScript,665.0,7.0
+.NET/C# Developer,MVC,598.0,8.0
+.NET/C# Developer,SQL Server,566.0,9.0
+.NET/C# Developer,Framework,543.0,10.0
+.NET/C# Developer,Communications,529.0,11.0
+.NET/C# Developer,Management,475.0,12.0
+.NET/C# Developer,Programming,473.0,13.0
+.NET/C# Developer,Testing,461.0,14.0
+.NET/C# Developer,Agile,440.0,15.0
+.NET/C# Developer,jQuery,429.0,16.0
+.NET/C# Developer,HTML,405.0,17.0
+.NET/C# Developer,Database,388.0,18.0
+.NET/C# Developer,Visual Studio,378.0,19.0
+Android Developer,Android,2712.0,0.0
+Android Developer,Mobile,1947.0,1.0
+Android Developer,Java,1715.0,2.0
+Android Developer,Software,1373.0,3.0
+Android Developer,SDK,1063.0,4.0
+Android Developer,Computer Science,999.0,5.0
+Android Developer,IT,959.0,6.0
+Android Developer,Agile,764.0,7.0
+Android Developer,Communications,740.0,8.0
+Android Developer,REST,704.0,9.0
+Android Developer,UI,682.0,10.0
+Android Developer,Programming,663.0,11.0
+Android Developer,JSON,649.0,12.0
+Android Developer,Testing,640.0,13.0
+Android Developer,Management,636.0,14.0
+Android Developer,Integration,626.0,15.0
+Android Developer,Engineering,606.0,16.0
+Android Developer,Git,586.0,17.0
+Android Developer,Architecture,576.0,18.0
+Android Developer,iOS,524.0,19.0
+Application Developer,Software,2142.0,0.0
+Application Developer,SQL,1707.0,1.0
+Application Developer,Management,1559.0,2.0
+Application Developer,IT,1541.0,3.0
+Application Developer,Testing,1514.0,4.0
+Application Developer,Programming,1494.0,5.0
+Application Developer,JavaScript,1407.0,6.0
+Application Developer,Java,1286.0,7.0
+Application Developer,Communications,1167.0,8.0
+Application Developer,Computer Science,1044.0,9.0
+Application Developer,Integration,1037.0,10.0
+Application Developer,Database,1009.0,11.0
+Application Developer,C#,965.0,12.0
+Application Developer,.NET,944.0,13.0
+Application Developer,Documentation,924.0,14.0
+Application Developer,Implementation,902.0,15.0
+Application Developer,Mobile,888.0,16.0
+Application Developer,HTML,845.0,17.0
+Application Developer,Oracle,834.0,18.0
+Application Developer,Agile,803.0,19.0
+Applications Architect,Software,674.0,0.0
+Applications Architect,Architecture,600.0,1.0
+Applications Architect,Management,500.0,2.0
+Applications Architect,IT,459.0,3.0
+Applications Architect,Integration,406.0,4.0
+Applications Architect,Java,360.0,5.0
+Applications Architect,Implementation,353.0,6.0
+Applications Architect,Security,346.0,7.0
+Applications Architect,Communications,345.0,8.0
+Applications Architect,Testing,333.0,9.0
+Applications Architect,Agile,314.0,10.0
+Applications Architect,SQL,306.0,11.0
+Applications Architect,Leadership,264.0,12.0
+Applications Architect,Programming,264.0,13.0
+Applications Architect,Database,262.0,14.0
+Applications Architect,Engineering,260.0,15.0
+Applications Architect,Infrastructure,247.0,16.0
+Applications Architect,Computer Science,245.0,17.0
+Applications Architect,Documentation,220.0,18.0
+Applications Architect,Oracle,219.0,19.0
+Associate Software Engineer,Software,436.0,0.0
+Associate Software Engineer,Engineering,261.0,1.0
+Associate Software Engineer,Computer Science,215.0,2.0
+Associate Software Engineer,Testing,212.0,3.0
+Associate Software Engineer,Communications,201.0,4.0
+Associate Software Engineer,Management,194.0,5.0
+Associate Software Engineer,Java,187.0,6.0
+Associate Software Engineer,Programming,186.0,7.0
+Associate Software Engineer,IT,185.0,8.0
+Associate Software Engineer,Education,162.0,9.0
+Associate Software Engineer,SQL,160.0,10.0
+Associate Software Engineer,JavaScript,149.0,11.0
+Associate Software Engineer,Agile,139.0,12.0
+Associate Software Engineer,Documentation,128.0,13.0
+Associate Software Engineer,C++,125.0,14.0
+Associate Software Engineer,Integration,121.0,15.0
+Associate Software Engineer,Database,113.0,16.0
+Associate Software Engineer,C#,110.0,17.0
+Associate Software Engineer,Security,102.0,18.0
+Associate Software Engineer,Mobile,99.0,19.0
+Back End Developer,IT,209.0,0.0
+Back End Developer,Software,209.0,1.0
+Back End Developer,PHP,172.0,2.0
+Back End Developer,JavaScript,160.0,3.0
+Back End Developer,Integration,144.0,4.0
+Back End Developer,Communications,144.0,5.0
+Back End Developer,Management,135.0,6.0
+Back End Developer,Engineering,126.0,7.0
+Back End Developer,MySQL,123.0,8.0
+Back End Developer,Ruby,122.0,9.0
+Back End Developer,Database,121.0,10.0
+Back End Developer,Git,118.0,11.0
+Back End Developer,Python,117.0,12.0
+Back End Developer,Programming,112.0,13.0
+Back End Developer,Testing,111.0,14.0
+Back End Developer,Java,111.0,15.0
+Back End Developer,Agile,107.0,16.0
+Back End Developer,CSS,93.0,17.0
+Back End Developer,SQL,93.0,18.0
+Back End Developer,Linux,92.0,19.0
+Back End Java Developer,Java,343.0,0.0
+Back End Java Developer,Software,192.0,1.0
+Back End Java Developer,Spring,190.0,2.0
+Back End Java Developer,IT,138.0,3.0
+Back End Java Developer,SQL,123.0,4.0
+Back End Java Developer,Agile,121.0,5.0
+Back End Java Developer,REST,120.0,6.0
+Back End Java Developer,Testing,110.0,7.0
+Back End Java Developer,Hibernate,104.0,8.0
+Back End Java Developer,Engineering,101.0,9.0
+Back End Java Developer,Management,97.0,10.0
+Back End Java Developer,Oracle,96.0,11.0
+Back End Java Developer,Integration,93.0,12.0
+Back End Java Developer,Communications,88.0,13.0
+Back End Java Developer,j2ee,87.0,14.0
+Back End Java Developer,Programming,85.0,15.0
+Back End Java Developer,Database,81.0,16.0
+Back End Java Developer,RESTful,81.0,17.0
+Back End Java Developer,Git,75.0,18.0
+Back End Java Developer,Computer Science,74.0,19.0
+Back End PHP Developer,PHP,107.0,0.0
+Back End PHP Developer,MySQL,92.0,1.0
+Back End PHP Developer,JavaScript,86.0,2.0
+Back End PHP Developer,Software,86.0,3.0
+Back End PHP Developer,Integration,76.0,4.0
+Back End PHP Developer,Git,63.0,5.0
+Back End PHP Developer,MVC,57.0,6.0
+Back End PHP Developer,Communications,55.0,7.0
+Back End PHP Developer,Linux,50.0,8.0
+Back End PHP Developer,Shell,50.0,9.0
+Back End PHP Developer,Unix,50.0,10.0
+Back End PHP Developer,Programming,46.0,11.0
+Back End PHP Developer,Computer Science,44.0,12.0
+Back End PHP Developer,CSS,44.0,13.0
+Back End PHP Developer,HTML5,43.0,14.0
+Back End PHP Developer,Testing,42.0,15.0
+Back End PHP Developer,Management,40.0,16.0
+Back End PHP Developer,Scripting,39.0,17.0
+Back End PHP Developer,Database,37.0,18.0
+Back End PHP Developer,Github,37.0,19.0
+Back End Software Engineer,Software,275.0,0.0
+Back End Software Engineer,Java,171.0,1.0
+Back End Software Engineer,Computer Science,149.0,2.0
+Back End Software Engineer,Engineering,140.0,3.0
+Back End Software Engineer,IT,125.0,4.0
+Back End Software Engineer,Python,120.0,5.0
+Back End Software Engineer,Programming,99.0,6.0
+Back End Software Engineer,SQL,95.0,7.0
+Back End Software Engineer,Agile,94.0,8.0
+Back End Software Engineer,Testing,93.0,9.0
+Back End Software Engineer,Architecture,90.0,10.0
+Back End Software Engineer,MySQL,88.0,11.0
+Back End Software Engineer,Management,87.0,12.0
+Back End Software Engineer,Mobile,80.0,13.0
+Back End Software Engineer,Database,80.0,14.0
+Back End Software Engineer,NoSQL,80.0,15.0
+Back End Software Engineer,cloud,76.0,16.0
+Back End Software Engineer,Communications,71.0,17.0
+Back End Software Engineer,Infrastructure,66.0,18.0
+Back End Software Engineer,Ruby,66.0,19.0
+Back End Web Developer,JavaScript,158.0,0.0
+Back End Web Developer,Management,135.0,1.0
+Back End Web Developer,Programming,131.0,2.0
+Back End Web Developer,MySQL,129.0,3.0
+Back End Web Developer,CSS,117.0,4.0
+Back End Web Developer,SQL,110.0,5.0
+Back End Web Developer,HTML,107.0,6.0
+Back End Web Developer,Agile,104.0,7.0
+Back End Web Developer,PHP,103.0,8.0
+Back End Web Developer,Software,98.0,9.0
+Back End Web Developer,Node.js,91.0,10.0
+Back End Web Developer,Computer Science,91.0,11.0
+Back End Web Developer,Database,91.0,12.0
+Back End Web Developer,Integration,83.0,13.0
+Back End Web Developer,MVC,80.0,14.0
+Back End Web Developer,Java,78.0,15.0
+Back End Web Developer,OOP,68.0,16.0
+Back End Web Developer,Python,63.0,17.0
+Back End Web Developer,Implementation,62.0,18.0
+Back End Web Developer,jQuery,56.0,19.0
+Data Analyst,Management,7758.0,0.0
+Data Analyst,Microsoft Excel,6131.0,1.0
+Data Analyst,SQL,5969.0,2.0
+Data Analyst,Reporting,5793.0,3.0
+Data Analyst,Communications,5776.0,4.0
+Data Analyst,IT,4814.0,5.0
+Data Analyst,Database,4353.0,6.0
+Data Analyst,Access,3791.0,7.0
+Data Analyst,Analytics,3487.0,8.0
+Data Analyst,Software,3421.0,9.0
+Data Analyst,Education,3395.0,10.0
+Data Analyst,Research,3145.0,11.0
+Data Analyst,Operations,3036.0,12.0
+Data Analyst,Training,2636.0,13.0
+Data Analyst,Documentation,2394.0,14.0
+Data Analyst,Statistics,2282.0,15.0
+Data Analyst,Problem Solving,2242.0,16.0
+Data Analyst,Testing,2170.0,17.0
+Data Analyst,Implementation,2141.0,18.0
+Data Analyst,Healthcare,2117.0,19.0
+Data Architect,Management,382.0,0.0
+Data Architect,Architecture,378.0,1.0
+Data Architect,Software,369.0,2.0
+Data Architect,SQL,333.0,3.0
+Data Architect,IT,292.0,4.0
+Data Architect,Database,292.0,5.0
+Data Architect,Modeling,279.0,6.0
+Data Architect,ETL,254.0,7.0
+Data Architect,Communications,251.0,8.0
+Data Architect,Integration,223.0,9.0
+Data Architect,Oracle,210.0,10.0
+Data Architect,Reporting,186.0,11.0
+Data Architect,Implementation,181.0,12.0
+Data Architect,Engineering,169.0,13.0
+Data Architect,Intelligence,167.0,14.0
+Data Architect,Security,157.0,15.0
+Data Architect,Computer Science,154.0,16.0
+Data Architect,Analytics,150.0,17.0
+Data Architect,Documentation,149.0,18.0
+Data Architect,Strategy,145.0,19.0
+Data Scientist,R,327.0,0.0
+Data Scientist,Statistics,314.0,1.0
+Data Scientist,Python,312.0,2.0
+Data Scientist,Analytics,284.0,3.0
+Data Scientist,Machine Learning,274.0,4.0
+Data Scientist,SQL,264.0,5.0
+Data Scientist,Research,261.0,6.0
+Data Scientist,Management,249.0,7.0
+Data Scientist,Software,245.0,8.0
+Data Scientist,Programming,220.0,9.0
+Data Scientist,Engineering,210.0,10.0
+Data Scientist,Modeling,199.0,11.0
+Data Scientist,Mathematics,195.0,12.0
+Data Scientist,Algorithms,182.0,13.0
+Data Scientist,Communications,176.0,14.0
+Data Scientist,IT,167.0,15.0
+Data Scientist,Visualization,166.0,16.0
+Data Scientist,SAS,155.0,17.0
+Data Scientist,Operations,136.0,18.0
+Data Scientist,Java,122.0,19.0
+Database Administrator,Database,7751.0,0.0
+Database Administrator,Management,5247.0,1.0
+Database Administrator,SQL,5170.0,2.0
+Database Administrator,DBA,5069.0,3.0
+Database Administrator,Oracle,4574.0,4.0
+Database Administrator,Security,4543.0,5.0
+Database Administrator,Recovery,4068.0,6.0
+Database Administrator,IT,3649.0,7.0
+Database Administrator,Software,3500.0,8.0
+Database Administrator,production,3407.0,9.0
+Database Administrator,Monitoring,3276.0,10.0
+Database Administrator,Communications,2980.0,11.0
+Database Administrator,Planning,2433.0,12.0
+Database Administrator,Implementation,2405.0,13.0
+Database Administrator,Access,2321.0,14.0
+Database Administrator,Documentation,2311.0,15.0
+Database Administrator,Troubleshooting,2264.0,16.0
+Database Administrator,Education,2207.0,17.0
+Database Administrator,Computer Science,2136.0,18.0
+Database Administrator,configuration,2086.0,19.0
+DevOps Engineer,DevOps,881.0,0.0
+DevOps Engineer,Management,590.0,1.0
+DevOps Engineer,Linux,588.0,2.0
+DevOps Engineer,Software,586.0,3.0
+DevOps Engineer,Infrastructure,520.0,4.0
+DevOps Engineer,Automation,516.0,5.0
+DevOps Engineer,cloud,504.0,6.0
+DevOps Engineer,configuration,494.0,7.0
+DevOps Engineer,Python,483.0,8.0
+DevOps Engineer,Scripting,478.0,9.0
+DevOps Engineer,Chef,452.0,10.0
+DevOps Engineer,IT,441.0,11.0
+DevOps Engineer,Monitoring,437.0,12.0
+DevOps Engineer,Engineering,419.0,13.0
+DevOps Engineer,Puppet,400.0,14.0
+DevOps Engineer,Integration,392.0,15.0
+DevOps Engineer,production,378.0,16.0
+DevOps Engineer,Ruby,358.0,17.0
+DevOps Engineer,Jenkins,355.0,18.0
+DevOps Engineer,Java,328.0,19.0
+Embedded Software Engineer,Software,687.0,0.0
+Embedded Software Engineer,Embedded Software,648.0,1.0
+Embedded Software Engineer,C,527.0,2.0
+Embedded Software Engineer,Engineering,496.0,3.0
+Embedded Software Engineer,C++,475.0,4.0
+Embedded Software Engineer,Programming,332.0,5.0
+Embedded Software Engineer,Hardware,320.0,6.0
+Embedded Software Engineer,Communications,290.0,7.0
+Embedded Software Engineer,Testing,262.0,8.0
+Embedded Software Engineer,Linux,261.0,9.0
+Embedded Software Engineer,Management,227.0,10.0
+Embedded Software Engineer,Computer Science,215.0,11.0
+Embedded Software Engineer,Integration,201.0,12.0
+Embedded Software Engineer,Documentation,179.0,13.0
+Embedded Software Engineer,IT,163.0,14.0
+Embedded Software Engineer,Firmware,161.0,15.0
+Embedded Software Engineer,Debugging,160.0,16.0
+Embedded Software Engineer,Security,154.0,17.0
+Embedded Software Engineer,RTOS,153.0,18.0
+Embedded Software Engineer,Implementation,153.0,19.0
+Entry Level Software Developer,Software,302.0,0.0
+Entry Level Software Developer,Java,222.0,1.0
+Entry Level Software Developer,Computer Science,215.0,2.0
+Entry Level Software Developer,Communications,190.0,3.0
+Entry Level Software Developer,.NET,185.0,4.0
+Entry Level Software Developer,IT,168.0,5.0
+Entry Level Software Developer,SQL,168.0,6.0
+Entry Level Software Developer,Engineering,167.0,7.0
+Entry Level Software Developer,Programming,144.0,8.0
+Entry Level Software Developer,Training,139.0,9.0
+Entry Level Software Developer,Mathematics,128.0,10.0
+Entry Level Software Developer,Testing,128.0,11.0
+Entry Level Software Developer,C++,99.0,12.0
+Entry Level Software Developer,C#,94.0,13.0
+Entry Level Software Developer,Database,93.0,14.0
+Entry Level Software Developer,Problem Solving,90.0,15.0
+Entry Level Software Developer,Architecture,83.0,16.0
+Entry Level Software Developer,JavaScript,82.0,17.0
+Entry Level Software Developer,Consulting,73.0,18.0
+Entry Level Software Developer,Documentation,71.0,19.0
+Front End .NET Developer,.NET,102.0,0.0
+Front End .NET Developer,JavaScript,93.0,1.0
+Front End .NET Developer,C#,76.0,2.0
+Front End .NET Developer,jQuery,73.0,3.0
+Front End .NET Developer,ASP.NET,70.0,4.0
+Front End .NET Developer,SQL,65.0,5.0
+Front End .NET Developer,CSS,62.0,6.0
+Front End .NET Developer,Software,51.0,7.0
+Front End .NET Developer,MVC,49.0,8.0
+Front End .NET Developer,HTML,48.0,9.0
+Front End .NET Developer,IT,45.0,10.0
+Front End .NET Developer,CSS3,36.0,11.0
+Front End .NET Developer,HTML5,36.0,12.0
+Front End .NET Developer,Agile,36.0,13.0
+Front End .NET Developer,AJAX,33.0,14.0
+Front End .NET Developer,UI,33.0,15.0
+Front End .NET Developer,JSON,32.0,16.0
+Front End .NET Developer,Programming,32.0,17.0
+Front End .NET Developer,Framework,31.0,18.0
+Front End .NET Developer,SQL Server,30.0,19.0
+Front End Developer,JavaScript,4092.0,0.0
+Front End Developer,CSS,3211.0,1.0
+Front End Developer,HTML,2695.0,2.0
+Front End Developer,HTML5,2115.0,3.0
+Front End Developer,jQuery,2069.0,4.0
+Front End Developer,IT,1859.0,5.0
+Front End Developer,Software,1761.0,6.0
+Front End Developer,CSS3,1650.0,7.0
+Front End Developer,Mobile,1466.0,8.0
+Front End Developer,AngularJS,1363.0,9.0
+Front End Developer,Agile,1266.0,10.0
+Front End Developer,Management,1264.0,11.0
+Front End Developer,Testing,1251.0,12.0
+Front End Developer,Communications,1208.0,13.0
+Front End Developer,UI,1198.0,14.0
+Front End Developer,Git,1009.0,15.0
+Front End Developer,SASS,975.0,16.0
+Front End Developer,Programming,910.0,17.0
+Front End Developer,Computer Science,887.0,18.0
+Front End Developer,bootstrap,877.0,19.0
+Front End Developer/Designer,JavaScript,119.0,0.0
+Front End Developer/Designer,CSS,108.0,1.0
+Front End Developer/Designer,HTML,92.0,2.0
+Front End Developer/Designer,HTML5,71.0,3.0
+Front End Developer/Designer,jQuery,70.0,4.0
+Front End Developer/Designer,Photoshop,69.0,5.0
+Front End Developer/Designer,Marketing,66.0,6.0
+Front End Developer/Designer,CSS3,63.0,7.0
+Front End Developer/Designer,Adobe,60.0,8.0
+Front End Developer/Designer,Management,48.0,9.0
+Front End Developer/Designer,Communications,47.0,10.0
+Front End Developer/Designer,Illustrator,47.0,11.0
+Front End Developer/Designer,IT,44.0,12.0
+Front End Developer/Designer,Mobile,43.0,13.0
+Front End Developer/Designer,UX,42.0,14.0
+Front End Developer/Designer,Testing,38.0,15.0
+Front End Developer/Designer,Wordpress,37.0,16.0
+Front End Developer/Designer,UI,36.0,17.0
+Front End Developer/Designer,Email,35.0,18.0
+Front End Developer/Designer,PHP,34.0,19.0
+Front End Engineer,JavaScript,697.0,0.0
+Front End Engineer,CSS,534.0,1.0
+Front End Engineer,HTML,386.0,2.0
+Front End Engineer,Software,363.0,3.0
+Front End Engineer,HTML5,335.0,4.0
+Front End Engineer,IT,317.0,5.0
+Front End Engineer,Mobile,301.0,6.0
+Front End Engineer,Engineering,299.0,7.0
+Front End Engineer,CSS3,274.0,8.0
+Front End Engineer,jQuery,266.0,9.0
+Front End Engineer,Computer Science,264.0,10.0
+Front End Engineer,Testing,234.0,11.0
+Front End Engineer,Communications,225.0,12.0
+Front End Engineer,AngularJS,221.0,13.0
+Front End Engineer,Agile,218.0,14.0
+Front End Engineer,Management,197.0,15.0
+Front End Engineer,UI,196.0,16.0
+Front End Engineer,Interfaces,184.0,17.0
+Front End Engineer,Java,172.0,18.0
+Front End Engineer,SASS,170.0,19.0
+Front End Java Developer,Java,267.0,0.0
+Front End Java Developer,JavaScript,198.0,1.0
+Front End Java Developer,jQuery,127.0,2.0
+Front End Java Developer,CSS,125.0,3.0
+Front End Java Developer,Software,118.0,4.0
+Front End Java Developer,HTML,108.0,5.0
+Front End Java Developer,IT,105.0,6.0
+Front End Java Developer,HTML5,90.0,7.0
+Front End Java Developer,Agile,88.0,8.0
+Front End Java Developer,AngularJS,88.0,9.0
+Front End Java Developer,Testing,88.0,10.0
+Front End Java Developer,Communications,86.0,11.0
+Front End Java Developer,Management,80.0,12.0
+Front End Java Developer,AJAX,78.0,13.0
+Front End Java Developer,Spring,77.0,14.0
+Front End Java Developer,bootstrap,76.0,15.0
+Front End Java Developer,XML,74.0,16.0
+Front End Java Developer,UI,71.0,17.0
+Front End Java Developer,Programming,69.0,18.0
+Front End Java Developer,SQL,63.0,19.0
+Front End JavaScript Developer,JavaScript,309.0,0.0
+Front End JavaScript Developer,CSS,203.0,1.0
+Front End JavaScript Developer,jQuery,177.0,2.0
+Front End JavaScript Developer,Computer Science,141.0,3.0
+Front End JavaScript Developer,IT,136.0,4.0
+Front End JavaScript Developer,HTML,128.0,5.0
+Front End JavaScript Developer,UI,123.0,6.0
+Front End JavaScript Developer,Engineering,116.0,7.0
+Front End JavaScript Developer,Security,111.0,8.0
+Front End JavaScript Developer,Management,111.0,9.0
+Front End JavaScript Developer,Testing,104.0,10.0
+Front End JavaScript Developer,Government,101.0,11.0
+Front End JavaScript Developer,cloud,99.0,12.0
+Front End JavaScript Developer,Software,99.0,13.0
+Front End JavaScript Developer,Analytics,96.0,14.0
+Front End JavaScript Developer,AngularJS,93.0,15.0
+Front End JavaScript Developer,Agile,86.0,16.0
+Front End JavaScript Developer,Healthcare,86.0,17.0
+Front End JavaScript Developer,Education,85.0,18.0
+Front End JavaScript Developer,Research,84.0,19.0
+Front End Software Developer,Software,153.0,0.0
+Front End Software Developer,JavaScript,125.0,1.0
+Front End Software Developer,CSS,92.0,2.0
+Front End Software Developer,Testing,76.0,3.0
+Front End Software Developer,HTML,71.0,4.0
+Front End Software Developer,IT,66.0,5.0
+Front End Software Developer,HTML5,65.0,6.0
+Front End Software Developer,jQuery,61.0,7.0
+Front End Software Developer,Agile,57.0,8.0
+Front End Software Developer,Computer Science,53.0,9.0
+Front End Software Developer,AngularJS,50.0,10.0
+Front End Software Developer,Engineering,48.0,11.0
+Front End Software Developer,Communications,48.0,12.0
+Front End Software Developer,Mobile,47.0,13.0
+Front End Software Developer,Management,46.0,14.0
+Front End Software Developer,Integration,46.0,15.0
+Front End Software Developer,MVC,41.0,16.0
+Front End Software Developer,Architecture,40.0,17.0
+Front End Software Developer,UI,40.0,18.0
+Front End Software Developer,Framework,37.0,19.0
+Front End Software Engineer,Software,589.0,0.0
+Front End Software Engineer,JavaScript,545.0,1.0
+Front End Software Engineer,CSS,395.0,2.0
+Front End Software Engineer,Engineering,306.0,3.0
+Front End Software Engineer,HTML,306.0,4.0
+Front End Software Engineer,Computer Science,304.0,5.0
+Front End Software Engineer,AngularJS,273.0,6.0
+Front End Software Engineer,Agile,259.0,7.0
+Front End Software Engineer,jQuery,231.0,8.0
+Front End Software Engineer,HTML5,230.0,9.0
+Front End Software Engineer,Mobile,229.0,10.0
+Front End Software Engineer,IT,226.0,11.0
+Front End Software Engineer,Testing,201.0,12.0
+Front End Software Engineer,UI,186.0,13.0
+Front End Software Engineer,Node.js,164.0,14.0
+Front End Software Engineer,CSS3,161.0,15.0
+Front End Software Engineer,MVC,153.0,16.0
+Front End Software Engineer,Interfaces,152.0,17.0
+Front End Software Engineer,Git,148.0,18.0
+Front End Software Engineer,bootstrap,147.0,19.0
+Front End UI Developer,UI,283.0,0.0
+Front End UI Developer,JavaScript,256.0,1.0
+Front End UI Developer,CSS,163.0,2.0
+Front End UI Developer,HTML5,160.0,3.0
+Front End UI Developer,HTML,153.0,4.0
+Front End UI Developer,CSS3,137.0,5.0
+Front End UI Developer,jQuery,127.0,6.0
+Front End UI Developer,IT,123.0,7.0
+Front End UI Developer,AngularJS,120.0,8.0
+Front End UI Developer,Software,104.0,9.0
+Front End UI Developer,Java,101.0,10.0
+Front End UI Developer,Agile,92.0,11.0
+Front End UI Developer,Testing,85.0,12.0
+Front End UI Developer,Communications,78.0,13.0
+Front End UI Developer,Mobile,74.0,14.0
+Front End UI Developer,AJAX,73.0,15.0
+Front End UI Developer,Engineering,69.0,16.0
+Front End UI Developer,bootstrap,63.0,17.0
+Front End UI Developer,Management,59.0,18.0
+Front End UI Developer,Git,58.0,19.0
+Front End Web Developer,JavaScript,1764.0,0.0
+Front End Web Developer,CSS,1402.0,1.0
+Front End Web Developer,HTML,1196.0,2.0
+Front End Web Developer,jQuery,1155.0,3.0
+Front End Web Developer,HTML5,1004.0,4.0
+Front End Web Developer,IT,836.0,5.0
+Front End Web Developer,CSS3,764.0,6.0
+Front End Web Developer,Mobile,731.0,7.0
+Front End Web Developer,Management,653.0,8.0
+Front End Web Developer,Software,649.0,9.0
+Front End Web Developer,Communications,591.0,10.0
+Front End Web Developer,Testing,507.0,11.0
+Front End Web Developer,AngularJS,502.0,12.0
+Front End Web Developer,Computer Science,495.0,13.0
+Front End Web Developer,UI,481.0,14.0
+Front End Web Developer,Photoshop,480.0,15.0
+Front End Web Developer,PHP,477.0,16.0
+Front End Web Developer,bootstrap,458.0,17.0
+Front End Web Developer,Agile,425.0,18.0
+Front End Web Developer,Programming,417.0,19.0
+Full Stack .NET Developer,.NET,439.0,0.0
+Full Stack .NET Developer,C#,315.0,1.0
+Full Stack .NET Developer,SQL,291.0,2.0
+Full Stack .NET Developer,JavaScript,278.0,3.0
+Full Stack .NET Developer,MVC,228.0,4.0
+Full Stack .NET Developer,ASP.NET,227.0,5.0
+Full Stack .NET Developer,Software,225.0,6.0
+Full Stack .NET Developer,IT,198.0,7.0
+Full Stack .NET Developer,CSS,179.0,8.0
+Full Stack .NET Developer,jQuery,176.0,9.0
+Full Stack .NET Developer,HTML,155.0,10.0
+Full Stack .NET Developer,AngularJS,143.0,11.0
+Full Stack .NET Developer,SQL Server,142.0,12.0
+Full Stack .NET Developer,Framework,139.0,13.0
+Full Stack .NET Developer,Programming,135.0,14.0
+Full Stack .NET Developer,Testing,127.0,15.0
+Full Stack .NET Developer,HTML5,127.0,16.0
+Full Stack .NET Developer,Agile,119.0,17.0
+Full Stack .NET Developer,Architecture,116.0,18.0
+Full Stack .NET Developer,Management,114.0,19.0
+Full Stack Developer,JavaScript,1157.0,0.0
+Full Stack Developer,Software,880.0,1.0
+Full Stack Developer,CSS,704.0,2.0
+Full Stack Developer,IT,688.0,3.0
+Full Stack Developer,Java,636.0,4.0
+Full Stack Developer,HTML,579.0,5.0
+Full Stack Developer,Agile,547.0,6.0
+Full Stack Developer,Mobile,492.0,7.0
+Full Stack Developer,SQL,478.0,8.0
+Full Stack Developer,Management,461.0,9.0
+Full Stack Developer,Engineering,455.0,10.0
+Full Stack Developer,Ruby,449.0,11.0
+Full Stack Developer,Architecture,439.0,12.0
+Full Stack Developer,Integration,437.0,13.0
+Full Stack Developer,Node.js,434.0,14.0
+Full Stack Developer,Testing,433.0,15.0
+Full Stack Developer,Communications,424.0,16.0
+Full Stack Developer,Python,422.0,17.0
+Full Stack Developer,AngularJS,400.0,18.0
+Full Stack Developer,Computer Science,383.0,19.0
+Full Stack Engineer,JavaScript,103.0,0.0
+Full Stack Engineer,Software,91.0,1.0
+Full Stack Engineer,Java,73.0,2.0
+Full Stack Engineer,Python,60.0,3.0
+Full Stack Engineer,IT,59.0,4.0
+Full Stack Engineer,Ruby,54.0,5.0
+Full Stack Engineer,CSS,49.0,6.0
+Full Stack Engineer,Engineering,47.0,7.0
+Full Stack Engineer,AngularJS,46.0,8.0
+Full Stack Engineer,Programming,45.0,9.0
+Full Stack Engineer,Node.js,45.0,10.0
+Full Stack Engineer,Management,43.0,11.0
+Full Stack Engineer,Computer Science,40.0,12.0
+Full Stack Engineer,PHP,40.0,13.0
+Full Stack Engineer,cloud,39.0,14.0
+Full Stack Engineer,Integration,38.0,15.0
+Full Stack Engineer,Architecture,37.0,16.0
+Full Stack Engineer,Mobile,35.0,17.0
+Full Stack Engineer,Agile,35.0,18.0
+Full Stack Engineer,Testing,33.0,19.0
+Full Stack Java Developer,Java,736.0,0.0
+Full Stack Java Developer,JavaScript,402.0,1.0
+Full Stack Java Developer,AngularJS,341.0,2.0
+Full Stack Java Developer,Spring,312.0,3.0
+Full Stack Java Developer,Software,309.0,4.0
+Full Stack Java Developer,Architecture,265.0,5.0
+Full Stack Java Developer,Programming,264.0,6.0
+Full Stack Java Developer,cloud,246.0,7.0
+Full Stack Java Developer,Node.js,222.0,8.0
+Full Stack Java Developer,SQL,205.0,9.0
+Full Stack Java Developer,IT,202.0,10.0
+Full Stack Java Developer,CSS,201.0,11.0
+Full Stack Java Developer,HTML,201.0,12.0
+Full Stack Java Developer,Agile,199.0,13.0
+Full Stack Java Developer,jQuery,191.0,14.0
+Full Stack Java Developer,REST,181.0,15.0
+Full Stack Java Developer,j2ee,176.0,16.0
+Full Stack Java Developer,.NET,167.0,17.0
+Full Stack Java Developer,IBM,162.0,18.0
+Full Stack Java Developer,Database,160.0,19.0
+Full Stack JavaScript Developer,JavaScript,106.0,0.0
+Full Stack JavaScript Developer,Java,55.0,1.0
+Full Stack JavaScript Developer,Software,51.0,2.0
+Full Stack JavaScript Developer,IT,47.0,3.0
+Full Stack JavaScript Developer,CSS,45.0,4.0
+Full Stack JavaScript Developer,AngularJS,42.0,5.0
+Full Stack JavaScript Developer,Node.js,41.0,6.0
+Full Stack JavaScript Developer,Programming,37.0,7.0
+Full Stack JavaScript Developer,Testing,37.0,8.0
+Full Stack JavaScript Developer,Agile,36.0,9.0
+Full Stack JavaScript Developer,HTML,33.0,10.0
+Full Stack JavaScript Developer,Communications,32.0,11.0
+Full Stack JavaScript Developer,Management,32.0,12.0
+Full Stack JavaScript Developer,Framework,29.0,13.0
+Full Stack JavaScript Developer,HTML5,27.0,14.0
+Full Stack JavaScript Developer,Spring,25.0,15.0
+Full Stack JavaScript Developer,REST,22.0,16.0
+Full Stack JavaScript Developer,Integration,22.0,17.0
+Full Stack JavaScript Developer,Documentation,21.0,18.0
+Full Stack JavaScript Developer,jQuery,21.0,19.0
+Full Stack PHP Developer,PHP,220.0,0.0
+Full Stack PHP Developer,JavaScript,185.0,1.0
+Full Stack PHP Developer,CSS,137.0,2.0
+Full Stack PHP Developer,MySQL,132.0,3.0
+Full Stack PHP Developer,HTML,123.0,4.0
+Full Stack PHP Developer,jQuery,87.0,5.0
+Full Stack PHP Developer,Software,78.0,6.0
+Full Stack PHP Developer,MVC,74.0,7.0
+Full Stack PHP Developer,HTML5,68.0,8.0
+Full Stack PHP Developer,Git,65.0,9.0
+Full Stack PHP Developer,Framework,63.0,10.0
+Full Stack PHP Developer,LAMP,61.0,11.0
+Full Stack PHP Developer,IT,60.0,12.0
+Full Stack PHP Developer,Linux,58.0,13.0
+Full Stack PHP Developer,CSS3,55.0,14.0
+Full Stack PHP Developer,Zend,53.0,15.0
+Full Stack PHP Developer,Agile,51.0,16.0
+Full Stack PHP Developer,Laravel,48.0,17.0
+Full Stack PHP Developer,Programming,43.0,18.0
+Full Stack PHP Developer,AngularJS,42.0,19.0
+Full Stack Ruby on Rails Developer,Ruby,134.0,0.0
+Full Stack Ruby on Rails Developer,JavaScript,102.0,1.0
+Full Stack Ruby on Rails Developer,Software,78.0,2.0
+Full Stack Ruby on Rails Developer,CSS,67.0,3.0
+Full Stack Ruby on Rails Developer,Testing,65.0,4.0
+Full Stack Ruby on Rails Developer,HTML,58.0,5.0
+Full Stack Ruby on Rails Developer,SQL,50.0,6.0
+Full Stack Ruby on Rails Developer,Writing,50.0,7.0
+Full Stack Ruby on Rails Developer,Database,47.0,8.0
+Full Stack Ruby on Rails Developer,Programming,42.0,9.0
+Full Stack Ruby on Rails Developer,Management,42.0,10.0
+Full Stack Ruby on Rails Developer,AngularJS,41.0,11.0
+Full Stack Ruby on Rails Developer,Software Development,38.0,12.0
+Full Stack Ruby on Rails Developer,Communications,36.0,13.0
+Full Stack Ruby on Rails Developer,IT,35.0,14.0
+Full Stack Ruby on Rails Developer,Innovation,34.0,15.0
+Full Stack Ruby on Rails Developer,LESS,31.0,16.0
+Full Stack Ruby on Rails Developer,FIX,31.0,17.0
+Full Stack Ruby on Rails Developer,Usability,31.0,18.0
+Full Stack Ruby on Rails Developer,Agile,30.0,19.0
+Full Stack Software Developer,Software,203.0,0.0
+Full Stack Software Developer,JavaScript,142.0,1.0
+Full Stack Software Developer,Java,117.0,2.0
+Full Stack Software Developer,Computer Science,82.0,3.0
+Full Stack Software Developer,Communications,76.0,4.0
+Full Stack Software Developer,REST,73.0,5.0
+Full Stack Software Developer,Database,69.0,6.0
+Full Stack Software Developer,Testing,69.0,7.0
+Full Stack Software Developer,cloud,67.0,8.0
+Full Stack Software Developer,CSS,67.0,9.0
+Full Stack Software Developer,Management,66.0,10.0
+Full Stack Software Developer,HTML,65.0,11.0
+Full Stack Software Developer,Agile,64.0,12.0
+Full Stack Software Developer,Programming,61.0,13.0
+Full Stack Software Developer,Engineering,60.0,14.0
+Full Stack Software Developer,AngularJS,59.0,15.0
+Full Stack Software Developer,SQL,59.0,16.0
+Full Stack Software Developer,Integration,53.0,17.0
+Full Stack Software Developer,Architecture,48.0,18.0
+Full Stack Software Developer,Git,47.0,19.0
+Full Stack Software Engineer,Software,358.0,0.0
+Full Stack Software Engineer,JavaScript,224.0,1.0
+Full Stack Software Engineer,Engineering,189.0,2.0
+Full Stack Software Engineer,Java,170.0,3.0
+Full Stack Software Engineer,IT,166.0,4.0
+Full Stack Software Engineer,Agile,141.0,5.0
+Full Stack Software Engineer,Computer Science,138.0,6.0
+Full Stack Software Engineer,Python,137.0,7.0
+Full Stack Software Engineer,CSS,128.0,8.0
+Full Stack Software Engineer,Programming,125.0,9.0
+Full Stack Software Engineer,HTML,111.0,10.0
+Full Stack Software Engineer,Testing,105.0,11.0
+Full Stack Software Engineer,AngularJS,103.0,12.0
+Full Stack Software Engineer,Management,101.0,13.0
+Full Stack Software Engineer,Communications,99.0,14.0
+Full Stack Software Engineer,Ruby,98.0,15.0
+Full Stack Software Engineer,Architecture,92.0,16.0
+Full Stack Software Engineer,SQL,91.0,17.0
+Full Stack Software Engineer,cloud,91.0,18.0
+Full Stack Software Engineer,Mobile,86.0,19.0
+Full Stack Web Developer,JavaScript,613.0,0.0
+Full Stack Web Developer,Software,441.0,1.0
+Full Stack Web Developer,CSS,374.0,2.0
+Full Stack Web Developer,IT,333.0,3.0
+Full Stack Web Developer,Database,300.0,4.0
+Full Stack Web Developer,Testing,296.0,5.0
+Full Stack Web Developer,jQuery,295.0,6.0
+Full Stack Web Developer,Management,288.0,7.0
+Full Stack Web Developer,PHP,288.0,8.0
+Full Stack Web Developer,HTML,281.0,9.0
+Full Stack Web Developer,MVC,270.0,10.0
+Full Stack Web Developer,SQL,260.0,11.0
+Full Stack Web Developer,Programming,258.0,12.0
+Full Stack Web Developer,Engineering,230.0,13.0
+Full Stack Web Developer,Agile,227.0,14.0
+Full Stack Web Developer,Framework,227.0,15.0
+Full Stack Web Developer,HTML5,223.0,16.0
+Full Stack Web Developer,Communications,221.0,17.0
+Full Stack Web Developer,Computer Science,208.0,18.0
+Full Stack Web Developer,MySQL,201.0,19.0
+iOS Developer,iOS,2772.0,0.0
+iOS Developer,Mobile,1893.0,1.0
+iOS Developer,Swift,1525.0,2.0
+iOS Developer,Objective-C,1468.0,3.0
+iOS Developer,Software,1380.0,4.0
+iOS Developer,IT,1043.0,5.0
+iOS Developer,Computer Science,937.0,6.0
+iOS Developer,C,816.0,7.0
+iOS Developer,Xcode,774.0,8.0
+iOS Developer,Agile,768.0,9.0
+iOS Developer,Engineering,690.0,10.0
+iOS Developer,Communications,686.0,11.0
+iOS Developer,Management,652.0,12.0
+iOS Developer,Cocoa,647.0,13.0
+iOS Developer,Programming,643.0,14.0
+iOS Developer,Testing,614.0,15.0
+iOS Developer,Android,592.0,16.0
+iOS Developer,Apple,586.0,17.0
+iOS Developer,REST,539.0,18.0
+iOS Developer,SDK,532.0,19.0
+iOS Engineer,iOS,526.0,0.0
+iOS Engineer,Mobile,371.0,1.0
+iOS Engineer,Objective-C,299.0,2.0
+iOS Engineer,Software,276.0,3.0
+iOS Engineer,Swift,265.0,4.0
+iOS Engineer,Computer Science,235.0,5.0
+iOS Engineer,Engineering,228.0,6.0
+iOS Engineer,IT,178.0,7.0
+iOS Engineer,Communications,153.0,8.0
+iOS Engineer,Apple,150.0,9.0
+iOS Engineer,Android,148.0,10.0
+iOS Engineer,Programming,140.0,11.0
+iOS Engineer,Cocoa,129.0,12.0
+iOS Engineer,Agile,125.0,13.0
+iOS Engineer,UI,122.0,14.0
+iOS Engineer,Management,120.0,15.0
+iOS Engineer,C,117.0,16.0
+iOS Engineer,Testing,108.0,17.0
+iOS Engineer,Xcode,95.0,18.0
+iOS Engineer,iPhone,92.0,19.0
+Java Application Developer,Java,851.0,0.0
+Java Application Developer,Software,498.0,1.0
+Java Application Developer,Testing,452.0,2.0
+Java Application Developer,Management,422.0,3.0
+Java Application Developer,Spring,407.0,4.0
+Java Application Developer,SQL,400.0,5.0
+Java Application Developer,IT,382.0,6.0
+Java Application Developer,j2ee,374.0,7.0
+Java Application Developer,Agile,332.0,8.0
+Java Application Developer,Oracle,320.0,9.0
+Java Application Developer,Computer Science,316.0,10.0
+Java Application Developer,Communications,304.0,11.0
+Java Application Developer,Programming,298.0,12.0
+Java Application Developer,JavaScript,270.0,13.0
+Java Application Developer,Database,265.0,14.0
+Java Application Developer,production,258.0,15.0
+Java Application Developer,Integration,254.0,16.0
+Java Application Developer,Implementation,246.0,17.0
+Java Application Developer,Architecture,244.0,18.0
+Java Application Developer,Engineering,236.0,19.0
+Java Architect,Java,413.0,0.0
+Java Architect,Software,337.0,1.0
+Java Architect,Architecture,250.0,2.0
+Java Architect,Spring,228.0,3.0
+Java Architect,Management,206.0,4.0
+Java Architect,IT,200.0,5.0
+Java Architect,Communications,192.0,6.0
+Java Architect,Integration,170.0,7.0
+Java Architect,j2ee,166.0,8.0
+Java Architect,Agile,148.0,9.0
+Java Architect,Testing,141.0,10.0
+Java Architect,SQL,137.0,11.0
+Java Architect,Database,136.0,12.0
+Java Architect,Oracle,134.0,13.0
+Java Architect,Leadership,133.0,14.0
+Java Architect,SOAP,129.0,15.0
+Java Architect,Hibernate,126.0,16.0
+Java Architect,Implementation,124.0,17.0
+Java Architect,Framework,119.0,18.0
+Java Architect,JavaScript,116.0,19.0
+Java Developer,Java,12786.0,0.0
+Java Developer,Software,6997.0,1.0
+Java Developer,Spring,5912.0,2.0
+Java Developer,SQL,5149.0,3.0
+Java Developer,j2ee,4985.0,4.0
+Java Developer,IT,4714.0,5.0
+Java Developer,Testing,4509.0,6.0
+Java Developer,JavaScript,4361.0,7.0
+Java Developer,Management,4238.0,8.0
+Java Developer,Oracle,4175.0,9.0
+Java Developer,Communications,4148.0,10.0
+Java Developer,Agile,4124.0,11.0
+Java Developer,Hibernate,3704.0,12.0
+Java Developer,Programming,3655.0,13.0
+Java Developer,Database,3472.0,14.0
+Java Developer,Integration,3464.0,15.0
+Java Developer,XML,3124.0,16.0
+Java Developer,Computer Science,2913.0,17.0
+Java Developer,Engineering,2718.0,18.0
+Java Developer,Framework,2712.0,19.0
+Java Software Developer,Software,761.0,0.0
+Java Software Developer,Java,759.0,1.0
+Java Software Developer,SQL,363.0,2.0
+Java Software Developer,Programming,359.0,3.0
+Java Software Developer,JavaScript,335.0,4.0
+Java Software Developer,Communications,332.0,5.0
+Java Software Developer,Database,281.0,6.0
+Java Software Developer,Management,277.0,7.0
+Java Software Developer,Integration,275.0,8.0
+Java Software Developer,j2ee,253.0,9.0
+Java Software Developer,Testing,252.0,10.0
+Java Software Developer,IT,241.0,11.0
+Java Software Developer,Agile,240.0,12.0
+Java Software Developer,Computer Science,225.0,13.0
+Java Software Developer,Engineering,223.0,14.0
+Java Software Developer,Spring,223.0,15.0
+Java Software Developer,HTML,222.0,16.0
+Java Software Developer,Oracle,219.0,17.0
+Java Software Developer,Scripting,207.0,18.0
+Java Software Developer,Linux,178.0,19.0
+Java Software Engineer,Software,1138.0,0.0
+Java Software Engineer,Java,1137.0,1.0
+Java Software Engineer,Engineering,557.0,2.0
+Java Software Engineer,Agile,552.0,3.0
+Java Software Engineer,Spring,534.0,4.0
+Java Software Engineer,SQL,497.0,5.0
+Java Software Engineer,Testing,489.0,6.0
+Java Software Engineer,Management,454.0,7.0
+Java Software Engineer,Computer Science,442.0,8.0
+Java Software Engineer,IT,429.0,9.0
+Java Software Engineer,JavaScript,395.0,10.0
+Java Software Engineer,Communications,393.0,11.0
+Java Software Engineer,Programming,379.0,12.0
+Java Software Engineer,Hibernate,370.0,13.0
+Java Software Engineer,Oracle,348.0,14.0
+Java Software Engineer,Security,335.0,15.0
+Java Software Engineer,Integration,318.0,16.0
+Java Software Engineer,XML,309.0,17.0
+Java Software Engineer,REST,301.0,18.0
+Java Software Engineer,Architecture,298.0,19.0
+Java Web Developer,Java,711.0,0.0
+Java Web Developer,Software,377.0,1.0
+Java Web Developer,JavaScript,372.0,2.0
+Java Web Developer,Spring,321.0,3.0
+Java Web Developer,SQL,302.0,4.0
+Java Web Developer,Testing,299.0,5.0
+Java Web Developer,IT,294.0,6.0
+Java Web Developer,Communications,275.0,7.0
+Java Web Developer,Management,272.0,8.0
+Java Web Developer,HTML,259.0,9.0
+Java Web Developer,Integration,244.0,10.0
+Java Web Developer,Computer Science,239.0,11.0
+Java Web Developer,Agile,227.0,12.0
+Java Web Developer,j2ee,221.0,13.0
+Java Web Developer,Programming,211.0,14.0
+Java Web Developer,CSS,203.0,15.0
+Java Web Developer,Oracle,196.0,16.0
+Java Web Developer,XML,186.0,17.0
+Java Web Developer,jQuery,176.0,18.0
+Java Web Developer,Engineering,170.0,19.0
+Java/Python Developer,Python,113.0,0.0
+Java/Python Developer,Java,113.0,1.0
+Java/Python Developer,Software,68.0,2.0
+Java/Python Developer,Management,44.0,3.0
+Java/Python Developer,Testing,44.0,4.0
+Java/Python Developer,Computer Science,42.0,5.0
+Java/Python Developer,Agile,40.0,6.0
+Java/Python Developer,Communications,38.0,7.0
+Java/Python Developer,Spring,36.0,8.0
+Java/Python Developer,j2ee,35.0,9.0
+Java/Python Developer,SQL,34.0,10.0
+Java/Python Developer,IT,33.0,11.0
+Java/Python Developer,Hibernate,32.0,12.0
+Java/Python Developer,REST,28.0,13.0
+Java/Python Developer,Tomcat,28.0,14.0
+Java/Python Developer,production,27.0,15.0
+Java/Python Developer,Engineering,26.0,16.0
+Java/Python Developer,Integration,25.0,17.0
+Java/Python Developer,JSP,25.0,18.0
+Java/Python Developer,Database,24.0,19.0
+JavaScript Developer,JavaScript,669.0,0.0
+JavaScript Developer,Software,319.0,1.0
+JavaScript Developer,CSS,304.0,2.0
+JavaScript Developer,HTML,260.0,3.0
+JavaScript Developer,Node.js,234.0,4.0
+JavaScript Developer,HTML5,217.0,5.0
+JavaScript Developer,IT,216.0,6.0
+JavaScript Developer,Agile,216.0,7.0
+JavaScript Developer,AngularJS,208.0,8.0
+JavaScript Developer,Mobile,205.0,9.0
+JavaScript Developer,Testing,197.0,10.0
+JavaScript Developer,jQuery,192.0,11.0
+JavaScript Developer,Java,189.0,12.0
+JavaScript Developer,Communications,185.0,13.0
+JavaScript Developer,Programming,181.0,14.0
+JavaScript Developer,Management,162.0,15.0
+JavaScript Developer,Computer Science,156.0,16.0
+JavaScript Developer,Framework,149.0,17.0
+JavaScript Developer,Git,148.0,18.0
+JavaScript Developer,Integration,132.0,19.0
+Junior .NET Developer,.NET,757.0,0.0
+Junior .NET Developer,C#,539.0,1.0
+Junior .NET Developer,SQL,537.0,2.0
+Junior .NET Developer,Software,513.0,3.0
+Junior .NET Developer,ASP.NET,411.0,4.0
+Junior .NET Developer,JavaScript,372.0,5.0
+Junior .NET Developer,IT,356.0,6.0
+Junior .NET Developer,Management,304.0,7.0
+Junior .NET Developer,Testing,285.0,8.0
+Junior .NET Developer,MVC,274.0,9.0
+Junior .NET Developer,CSS,252.0,10.0
+Junior .NET Developer,Programming,244.0,11.0
+Junior .NET Developer,HTML,241.0,12.0
+Junior .NET Developer,Framework,239.0,13.0
+Junior .NET Developer,jQuery,239.0,14.0
+Junior .NET Developer,Computer Science,231.0,15.0
+Junior .NET Developer,SQL Server,229.0,16.0
+Junior .NET Developer,Communications,226.0,17.0
+Junior .NET Developer,Database,190.0,18.0
+Junior .NET Developer,Visual Studio,177.0,19.0
+Junior Front End Developer,JavaScript,109.0,0.0
+Junior Front End Developer,HTML,87.0,1.0
+Junior Front End Developer,CSS,85.0,2.0
+Junior Front End Developer,HTML5,67.0,3.0
+Junior Front End Developer,jQuery,57.0,4.0
+Junior Front End Developer,Git,50.0,5.0
+Junior Front End Developer,bootstrap,46.0,6.0
+Junior Front End Developer,CSS3,45.0,7.0
+Junior Front End Developer,Software,45.0,8.0
+Junior Front End Developer,Agile,43.0,9.0
+Junior Front End Developer,Testing,43.0,10.0
+Junior Front End Developer,IT,42.0,11.0
+Junior Front End Developer,AngularJS,40.0,12.0
+Junior Front End Developer,Computer Science,40.0,13.0
+Junior Front End Developer,Marketing,39.0,14.0
+Junior Front End Developer,Framework,38.0,15.0
+Junior Front End Developer,Management,37.0,16.0
+Junior Front End Developer,Engineering,36.0,17.0
+Junior Front End Developer,Implementation,33.0,18.0
+Junior Front End Developer,Node.js,32.0,19.0
+Junior Java Developer,Java,769.0,0.0
+Junior Java Developer,Software,501.0,1.0
+Junior Java Developer,Spring,316.0,2.0
+Junior Java Developer,Oracle,303.0,3.0
+Junior Java Developer,JavaScript,302.0,4.0
+Junior Java Developer,Testing,301.0,5.0
+Junior Java Developer,SQL,292.0,6.0
+Junior Java Developer,IT,291.0,7.0
+Junior Java Developer,Programming,273.0,8.0
+Junior Java Developer,Agile,270.0,9.0
+Junior Java Developer,Management,267.0,10.0
+Junior Java Developer,Computer Science,236.0,11.0
+Junior Java Developer,Database,230.0,12.0
+Junior Java Developer,Communications,227.0,13.0
+Junior Java Developer,j2ee,227.0,14.0
+Junior Java Developer,HTML,226.0,15.0
+Junior Java Developer,Integration,209.0,16.0
+Junior Java Developer,Hibernate,193.0,17.0
+Junior Java Developer,XML,189.0,18.0
+Junior Java Developer,Framework,185.0,19.0
+Junior Software Developer,Software,580.0,0.0
+Junior Software Developer,Computer Science,329.0,1.0
+Junior Software Developer,C#,291.0,2.0
+Junior Software Developer,Programming,289.0,3.0
+Junior Software Developer,Engineering,272.0,4.0
+Junior Software Developer,SQL,259.0,5.0
+Junior Software Developer,.NET,243.0,6.0
+Junior Software Developer,Java,234.0,7.0
+Junior Software Developer,Testing,234.0,8.0
+Junior Software Developer,JavaScript,231.0,9.0
+Junior Software Developer,Communications,219.0,10.0
+Junior Software Developer,IT,218.0,11.0
+Junior Software Developer,Agile,200.0,12.0
+Junior Software Developer,Security,199.0,13.0
+Junior Software Developer,Database,185.0,14.0
+Junior Software Developer,Management,173.0,15.0
+Junior Software Developer,HTML,153.0,16.0
+Junior Software Developer,Access,152.0,17.0
+Junior Software Developer,CSS,151.0,18.0
+Junior Software Developer,Government,150.0,19.0
+Junior Software Engineer,Software,598.0,0.0
+Junior Software Engineer,Engineering,379.0,1.0
+Junior Software Engineer,Java,346.0,2.0
+Junior Software Engineer,Programming,333.0,3.0
+Junior Software Engineer,Testing,300.0,4.0
+Junior Software Engineer,Management,254.0,5.0
+Junior Software Engineer,Computer Science,251.0,6.0
+Junior Software Engineer,Security,233.0,7.0
+Junior Software Engineer,C++,231.0,8.0
+Junior Software Engineer,IT,227.0,9.0
+Junior Software Engineer,JavaScript,225.0,10.0
+Junior Software Engineer,Integration,221.0,11.0
+Junior Software Engineer,SQL,196.0,12.0
+Junior Software Engineer,Agile,188.0,13.0
+Junior Software Engineer,Government,185.0,14.0
+Junior Software Engineer,Communications,178.0,15.0
+Junior Software Engineer,Linux,174.0,16.0
+Junior Software Engineer,C,170.0,17.0
+Junior Software Engineer,Education,165.0,18.0
+Junior Software Engineer,C#,161.0,19.0
+Junior Web Developer,JavaScript,298.0,0.0
+Junior Web Developer,CSS,250.0,1.0
+Junior Web Developer,HTML,232.0,2.0
+Junior Web Developer,Software,214.0,3.0
+Junior Web Developer,Management,203.0,4.0
+Junior Web Developer,IT,202.0,5.0
+Junior Web Developer,jQuery,147.0,6.0
+Junior Web Developer,PHP,146.0,7.0
+Junior Web Developer,Security,136.0,8.0
+Junior Web Developer,SQL,136.0,9.0
+Junior Web Developer,Education,130.0,10.0
+Junior Web Developer,Communications,126.0,11.0
+Junior Web Developer,Computer Science,120.0,12.0
+Junior Web Developer,HTML5,119.0,13.0
+Junior Web Developer,Database,118.0,14.0
+Junior Web Developer,production,116.0,15.0
+Junior Web Developer,Testing,113.0,16.0
+Junior Web Developer,Training,110.0,17.0
+Junior Web Developer,Programming,108.0,18.0
+Junior Web Developer,C#,97.0,19.0
+Lead .NET Developer,.NET,531.0,0.0
+Lead .NET Developer,C#,430.0,1.0
+Lead .NET Developer,SQL,407.0,2.0
+Lead .NET Developer,Software,324.0,3.0
+Lead .NET Developer,ASP.NET,313.0,4.0
+Lead .NET Developer,JavaScript,284.0,5.0
+Lead .NET Developer,MVC,280.0,6.0
+Lead .NET Developer,IT,271.0,7.0
+Lead .NET Developer,Management,264.0,8.0
+Lead .NET Developer,SQL Server,222.0,9.0
+Lead .NET Developer,Framework,211.0,10.0
+Lead .NET Developer,Programming,207.0,11.0
+Lead .NET Developer,Agile,203.0,12.0
+Lead .NET Developer,Communications,197.0,13.0
+Lead .NET Developer,Testing,192.0,14.0
+Lead .NET Developer,Architecture,182.0,15.0
+Lead .NET Developer,Database,155.0,16.0
+Lead .NET Developer,Implementation,153.0,17.0
+Lead .NET Developer,jQuery,153.0,18.0
+Lead .NET Developer,Leadership,148.0,19.0
+Lead Front End Developer,JavaScript,186.0,0.0
+Lead Front End Developer,CSS,129.0,1.0
+Lead Front End Developer,HTML5,112.0,2.0
+Lead Front End Developer,HTML,109.0,3.0
+Lead Front End Developer,Management,100.0,4.0
+Lead Front End Developer,IT,96.0,5.0
+Lead Front End Developer,CSS3,90.0,6.0
+Lead Front End Developer,Software,82.0,7.0
+Lead Front End Developer,jQuery,73.0,8.0
+Lead Front End Developer,Testing,71.0,9.0
+Lead Front End Developer,UI,70.0,10.0
+Lead Front End Developer,Agile,69.0,11.0
+Lead Front End Developer,Communications,67.0,12.0
+Lead Front End Developer,AngularJS,57.0,13.0
+Lead Front End Developer,Mobile,53.0,14.0
+Lead Front End Developer,Git,43.0,15.0
+Lead Front End Developer,UX,43.0,16.0
+Lead Front End Developer,Photoshop,41.0,17.0
+Lead Front End Developer,Engineering,40.0,18.0
+Lead Front End Developer,Computer Science,39.0,19.0
+Lead Java Developer,Java,878.0,0.0
+Lead Java Developer,Software,566.0,1.0
+Lead Java Developer,IT,432.0,2.0
+Lead Java Developer,Spring,418.0,3.0
+Lead Java Developer,Agile,407.0,4.0
+Lead Java Developer,Management,398.0,5.0
+Lead Java Developer,j2ee,394.0,6.0
+Lead Java Developer,SQL,389.0,7.0
+Lead Java Developer,Testing,352.0,8.0
+Lead Java Developer,Communications,351.0,9.0
+Lead Java Developer,Database,310.0,10.0
+Lead Java Developer,REST,288.0,11.0
+Lead Java Developer,Computer Science,284.0,12.0
+Lead Java Developer,Hibernate,282.0,13.0
+Lead Java Developer,JavaScript,281.0,14.0
+Lead Java Developer,Architecture,275.0,15.0
+Lead Java Developer,Programming,274.0,16.0
+Lead Java Developer,Integration,266.0,17.0
+Lead Java Developer,Oracle,262.0,18.0
+Lead Java Developer,Implementation,261.0,19.0
+Lead Software Developer,Software,530.0,0.0
+Lead Software Developer,Management,303.0,1.0
+Lead Software Developer,IT,241.0,2.0
+Lead Software Developer,Communications,232.0,3.0
+Lead Software Developer,Agile,231.0,4.0
+Lead Software Developer,Leadership,228.0,5.0
+Lead Software Developer,JavaScript,225.0,6.0
+Lead Software Developer,SQL,218.0,7.0
+Lead Software Developer,Architecture,196.0,8.0
+Lead Software Developer,.NET,194.0,9.0
+Lead Software Developer,Engineering,187.0,10.0
+Lead Software Developer,C#,182.0,11.0
+Lead Software Developer,Programming,178.0,12.0
+Lead Software Developer,Integration,177.0,13.0
+Lead Software Developer,Testing,177.0,14.0
+Lead Software Developer,Java,173.0,15.0
+Lead Software Developer,Computer Science,171.0,16.0
+Lead Software Developer,Software Development,165.0,17.0
+Lead Software Developer,Education,141.0,18.0
+Lead Software Developer,Documentation,140.0,19.0
+Lead Software Engineer,Software,821.0,0.0
+Lead Software Engineer,Engineering,461.0,1.0
+Lead Software Engineer,Management,423.0,2.0
+Lead Software Engineer,Agile,406.0,3.0
+Lead Software Engineer,Java,376.0,4.0
+Lead Software Engineer,Testing,375.0,5.0
+Lead Software Engineer,Computer Science,362.0,6.0
+Lead Software Engineer,Programming,362.0,7.0
+Lead Software Engineer,Architecture,352.0,8.0
+Lead Software Engineer,Communications,350.0,9.0
+Lead Software Engineer,IT,346.0,10.0
+Lead Software Engineer,Leadership,314.0,11.0
+Lead Software Engineer,JavaScript,310.0,12.0
+Lead Software Engineer,cloud,296.0,13.0
+Lead Software Engineer,Implementation,278.0,14.0
+Lead Software Engineer,Integration,266.0,15.0
+Lead Software Engineer,Database,257.0,16.0
+Lead Software Engineer,SQL,237.0,17.0
+Lead Software Engineer,Security,216.0,18.0
+Lead Software Engineer,HTML,203.0,19.0
+Linux Systems Administrator,Linux,1283.0,0.0
+Linux Systems Administrator,Management,798.0,1.0
+Linux Systems Administrator,Software,794.0,2.0
+Linux Systems Administrator,Security,677.0,3.0
+Linux Systems Administrator,IT,667.0,4.0
+Linux Systems Administrator,Network,653.0,5.0
+Linux Systems Administrator,Scripting,627.0,6.0
+Linux Systems Administrator,configuration,597.0,7.0
+Linux Systems Administrator,Hardware,568.0,8.0
+Linux Systems Administrator,Monitoring,554.0,9.0
+Linux Systems Administrator,Troubleshooting,536.0,10.0
+Linux Systems Administrator,Infrastructure,521.0,11.0
+Linux Systems Administrator,VMware,496.0,12.0
+Linux Systems Administrator,Operations,466.0,13.0
+Linux Systems Administrator,Communications,448.0,14.0
+Linux Systems Administrator,Perl,445.0,15.0
+Linux Systems Administrator,Storage,445.0,16.0
+Linux Systems Administrator,Windows,438.0,17.0
+Linux Systems Administrator,Python,423.0,18.0
+Linux Systems Administrator,Networking,410.0,19.0
+Mobile Application Developer,Mobile,931.0,0.0
+Mobile Application Developer,iOS,686.0,1.0
+Mobile Application Developer,Android,659.0,2.0
+Mobile Application Developer,Software,507.0,3.0
+Mobile Application Developer,IT,442.0,4.0
+Mobile Application Developer,Java,427.0,5.0
+Mobile Application Developer,Agile,364.0,6.0
+Mobile Application Developer,Testing,337.0,7.0
+Mobile Application Developer,Communications,335.0,8.0
+Mobile Application Developer,Management,332.0,9.0
+Mobile Application Developer,JavaScript,328.0,10.0
+Mobile Application Developer,Programming,280.0,11.0
+Mobile Application Developer,Computer Science,275.0,12.0
+Mobile Application Developer,Swift,247.0,13.0
+Mobile Application Developer,SDK,220.0,14.0
+Mobile Application Developer,HTML5,219.0,15.0
+Mobile Application Developer,Integration,213.0,16.0
+Mobile Application Developer,JSON,208.0,17.0
+Mobile Application Developer,Objective-C,199.0,18.0
+Mobile Application Developer,REST,193.0,19.0
+Mobile Developer,Mobile,1374.0,0.0
+Mobile Developer,iOS,1017.0,1.0
+Mobile Developer,Android,948.0,2.0
+Mobile Developer,Software,694.0,3.0
+Mobile Developer,Java,555.0,4.0
+Mobile Developer,IT,548.0,5.0
+Mobile Developer,JavaScript,459.0,6.0
+Mobile Developer,Computer Science,444.0,7.0
+Mobile Developer,Agile,426.0,8.0
+Mobile Developer,Testing,386.0,9.0
+Mobile Developer,Communications,367.0,10.0
+Mobile Developer,Management,358.0,11.0
+Mobile Developer,Programming,344.0,12.0
+Mobile Developer,Swift,330.0,13.0
+Mobile Developer,Objective-C,322.0,14.0
+Mobile Developer,Integration,299.0,15.0
+Mobile Developer,C,298.0,16.0
+Mobile Developer,C#,280.0,17.0
+Mobile Developer,JSON,259.0,18.0
+Mobile Developer,HTML5,257.0,19.0
+Mobile iOS Developer,iOS,503.0,0.0
+Mobile iOS Developer,Mobile,503.0,1.0
+Mobile iOS Developer,Swift,286.0,2.0
+Mobile iOS Developer,Software,246.0,3.0
+Mobile iOS Developer,Objective-C,207.0,4.0
+Mobile iOS Developer,IT,199.0,5.0
+Mobile iOS Developer,C,186.0,6.0
+Mobile iOS Developer,Android,178.0,7.0
+Mobile iOS Developer,Computer Science,172.0,8.0
+Mobile iOS Developer,Agile,156.0,9.0
+Mobile iOS Developer,Xcode,138.0,10.0
+Mobile iOS Developer,Management,136.0,11.0
+Mobile iOS Developer,Communications,125.0,12.0
+Mobile iOS Developer,Engineering,122.0,13.0
+Mobile iOS Developer,JSON,121.0,14.0
+Mobile iOS Developer,Programming,111.0,15.0
+Mobile iOS Developer,REST,110.0,16.0
+Mobile iOS Developer,Integration,108.0,17.0
+Mobile iOS Developer,Cocoa,104.0,18.0
+Mobile iOS Developer,Testing,103.0,19.0
+MS SQL Server DBA,SQL,1630.0,0.0
+MS SQL Server DBA,SQL Server,1609.0,1.0
+MS SQL Server DBA,Database,1490.0,2.0
+MS SQL Server DBA,DBA,1419.0,3.0
+MS SQL Server DBA,Management,985.0,4.0
+MS SQL Server DBA,Recovery,855.0,5.0
+MS SQL Server DBA,production,807.0,6.0
+MS SQL Server DBA,Security,780.0,7.0
+MS SQL Server DBA,Monitoring,769.0,8.0
+MS SQL Server DBA,IT,733.0,9.0
+MS SQL Server DBA,Communications,646.0,10.0
+MS SQL Server DBA,Windows,560.0,11.0
+MS SQL Server DBA,Software,545.0,12.0
+MS SQL Server DBA,Troubleshooting,523.0,13.0
+MS SQL Server DBA,configuration,488.0,14.0
+MS SQL Server DBA,Implementation,445.0,15.0
+MS SQL Server DBA,Reporting,441.0,16.0
+MS SQL Server DBA,Documentation,424.0,17.0
+MS SQL Server DBA,Operations,422.0,18.0
+MS SQL Server DBA,Planning,418.0,19.0
+Network Administrator,Network,1199.0,0.0
+Network Administrator,Software,853.0,1.0
+Network Administrator,Hardware,822.0,2.0
+Network Administrator,Security,814.0,3.0
+Network Administrator,Management,688.0,4.0
+Network Administrator,IT,659.0,5.0
+Network Administrator,Infrastructure,604.0,6.0
+Network Administrator,Troubleshooting,567.0,7.0
+Network Administrator,Cisco,545.0,8.0
+Network Administrator,Switches,518.0,9.0
+Network Administrator,Access,506.0,10.0
+Network Administrator,Windows,497.0,11.0
+Network Administrator,Monitoring,494.0,12.0
+Network Administrator,Networking,492.0,13.0
+Network Administrator,configuration,489.0,14.0
+Network Administrator,Education,467.0,15.0
+Network Administrator,Communications,458.0,16.0
+Network Administrator,Routers,457.0,17.0
+Network Administrator,LAN,434.0,18.0
+Network Administrator,WAN,420.0,19.0
+Network Engineer,Network,11637.0,0.0
+Network Engineer,Cisco,7381.0,1.0
+Network Engineer,Management,7139.0,2.0
+Network Engineer,Security,6597.0,3.0
+Network Engineer,Engineering,6255.0,4.0
+Network Engineer,IT,6196.0,5.0
+Network Engineer,Infrastructure,5648.0,6.0
+Network Engineer,Networking,5413.0,7.0
+Network Engineer,Software,5363.0,8.0
+Network Engineer,Troubleshooting,5337.0,9.0
+Network Engineer,Routing,4966.0,10.0
+Network Engineer,Hardware,4918.0,11.0
+Network Engineer,Switches,4860.0,12.0
+Network Engineer,Communications,4768.0,13.0
+Network Engineer,Routers,4733.0,14.0
+Network Engineer,Implementation,4704.0,15.0
+Network Engineer,IP,4666.0,16.0
+Network Engineer,configuration,4635.0,17.0
+Network Engineer,Operations,4231.0,18.0
+Network Engineer,WAN,4116.0,19.0
+PHP Developer,PHP,2810.0,0.0
+PHP Developer,JavaScript,1900.0,1.0
+PHP Developer,MySQL,1745.0,2.0
+PHP Developer,CSS,1380.0,3.0
+PHP Developer,Software,1320.0,4.0
+PHP Developer,IT,1288.0,5.0
+PHP Developer,jQuery,1201.0,6.0
+PHP Developer,HTML,1201.0,7.0
+PHP Developer,Programming,815.0,8.0
+PHP Developer,Management,745.0,9.0
+PHP Developer,MVC,745.0,10.0
+PHP Developer,LAMP,735.0,11.0
+PHP Developer,SQL,733.0,12.0
+PHP Developer,Git,720.0,13.0
+PHP Developer,Testing,705.0,14.0
+PHP Developer,Database,692.0,15.0
+PHP Developer,Framework,671.0,16.0
+PHP Developer,Integration,663.0,17.0
+PHP Developer,Communications,658.0,18.0
+PHP Developer,Linux,653.0,19.0
+PHP Web Developer,PHP,420.0,0.0
+PHP Web Developer,JavaScript,322.0,1.0
+PHP Web Developer,MySQL,246.0,2.0
+PHP Web Developer,CSS,241.0,3.0
+PHP Web Developer,HTML,224.0,4.0
+PHP Web Developer,jQuery,195.0,5.0
+PHP Web Developer,IT,183.0,6.0
+PHP Web Developer,Software,159.0,7.0
+PHP Web Developer,Communications,119.0,8.0
+PHP Web Developer,Wordpress,117.0,9.0
+PHP Web Developer,Programming,117.0,10.0
+PHP Web Developer,Management,113.0,11.0
+PHP Web Developer,HTML5,111.0,12.0
+PHP Web Developer,Database,111.0,13.0
+PHP Web Developer,Integration,111.0,14.0
+PHP Web Developer,SQL,109.0,15.0
+PHP Web Developer,LAMP,108.0,16.0
+PHP Web Developer,Git,104.0,17.0
+PHP Web Developer,MVC,100.0,18.0
+PHP Web Developer,Linux,98.0,19.0
+Principal Software Engineer,Software,455.0,0.0
+Principal Software Engineer,Engineering,313.0,1.0
+Principal Software Engineer,Java,242.0,2.0
+Principal Software Engineer,IT,231.0,3.0
+Principal Software Engineer,Agile,221.0,4.0
+Principal Software Engineer,Computer Science,221.0,5.0
+Principal Software Engineer,Programming,215.0,6.0
+Principal Software Engineer,Management,203.0,7.0
+Principal Software Engineer,Testing,170.0,8.0
+Principal Software Engineer,Architecture,166.0,9.0
+Principal Software Engineer,Communications,163.0,10.0
+Principal Software Engineer,Leadership,144.0,11.0
+Principal Software Engineer,Security,141.0,12.0
+Principal Software Engineer,JavaScript,129.0,13.0
+Principal Software Engineer,Integration,127.0,14.0
+Principal Software Engineer,C,122.0,15.0
+Principal Software Engineer,Education,122.0,16.0
+Principal Software Engineer,Implementation,120.0,17.0
+Principal Software Engineer,cloud,116.0,18.0
+Principal Software Engineer,SQL,114.0,19.0
+Python Developer,Python,948.0,0.0
+Python Developer,Software,477.0,1.0
+Python Developer,Linux,385.0,2.0
+Python Developer,JavaScript,326.0,3.0
+Python Developer,IT,291.0,4.0
+Python Developer,SQL,291.0,5.0
+Python Developer,Django,280.0,6.0
+Python Developer,Programming,259.0,7.0
+Python Developer,Java,256.0,8.0
+Python Developer,Agile,246.0,9.0
+Python Developer,Communications,241.0,10.0
+Python Developer,Management,241.0,11.0
+Python Developer,Integration,204.0,12.0
+Python Developer,Engineering,203.0,13.0
+Python Developer,Testing,172.0,14.0
+Python Developer,Framework,167.0,15.0
+Python Developer,Computer Science,159.0,16.0
+Python Developer,MySQL,159.0,17.0
+Python Developer,HTML,144.0,18.0
+Python Developer,C++,140.0,19.0
+Quality Assurance Analyst,QA,3054.0,0.0
+Quality Assurance Analyst,Testing,2812.0,1.0
+Quality Assurance Analyst,Quality Assurance,2304.0,2.0
+Quality Assurance Analyst,Software,2299.0,3.0
+Quality Assurance Analyst,Management,2057.0,4.0
+Quality Assurance Analyst,Communications,1752.0,5.0
+Quality Assurance Analyst,IT,1547.0,6.0
+Quality Assurance Analyst,SQL,1326.0,7.0
+Quality Assurance Analyst,Documentation,1240.0,8.0
+Quality Assurance Analyst,Agile,1102.0,9.0
+Quality Assurance Analyst,Automation,1073.0,10.0
+Quality Assurance Analyst,Education,972.0,11.0
+Quality Assurance Analyst,Training,907.0,12.0
+Quality Assurance Analyst,Reporting,890.0,13.0
+Quality Assurance Analyst,Writing,863.0,14.0
+Quality Assurance Analyst,Computer Science,786.0,15.0
+Quality Assurance Analyst,Planning,751.0,16.0
+Quality Assurance Analyst,Integration,749.0,17.0
+Quality Assurance Analyst,Database,736.0,18.0
+Quality Assurance Analyst,Engineering,703.0,19.0
+Quality Assurance Engineer,QA,3607.0,0.0
+Quality Assurance Engineer,Testing,3315.0,1.0
+Quality Assurance Engineer,Software,2767.0,2.0
+Quality Assurance Engineer,Quality Assurance,2331.0,3.0
+Quality Assurance Engineer,Automation,2324.0,4.0
+Quality Assurance Engineer,Management,2126.0,5.0
+Quality Assurance Engineer,Engineering,2056.0,6.0
+Quality Assurance Engineer,Communications,2015.0,7.0
+Quality Assurance Engineer,Agile,1544.0,8.0
+Quality Assurance Engineer,IT,1460.0,9.0
+Quality Assurance Engineer,Selenium,1395.0,10.0
+Quality Assurance Engineer,SQL,1347.0,11.0
+Quality Assurance Engineer,Computer Science,1296.0,12.0
+Quality Assurance Engineer,Java,1247.0,13.0
+Quality Assurance Engineer,Integration,1074.0,14.0
+Quality Assurance Engineer,Writing,1005.0,15.0
+Quality Assurance Engineer,Documentation,923.0,16.0
+Quality Assurance Engineer,Mobile,910.0,17.0
+Quality Assurance Engineer,Education,890.0,18.0
+Quality Assurance Engineer,Scripting,876.0,19.0
+Quality Assurance Manager,Management,1071.0,0.0
+Quality Assurance Manager,Quality Assurance,1042.0,1.0
+Quality Assurance Manager,QA,934.0,2.0
+Quality Assurance Manager,Testing,621.0,3.0
+Quality Assurance Manager,Communications,614.0,4.0
+Quality Assurance Manager,Compliance,613.0,5.0
+Quality Assurance Manager,Training,610.0,6.0
+Quality Assurance Manager,Leadership,505.0,7.0
+Quality Assurance Manager,Manufacturing,477.0,8.0
+Quality Assurance Manager,Documentation,415.0,9.0
+Quality Assurance Manager,IT,410.0,10.0
+Quality Assurance Manager,Education,410.0,11.0
+Quality Assurance Manager,Engineering,408.0,12.0
+Quality Assurance Manager,Operations,406.0,13.0
+Quality Assurance Manager,Software,405.0,14.0
+Quality Assurance Manager,Implementation,388.0,15.0
+Quality Assurance Manager,production,383.0,16.0
+Quality Assurance Manager,Reporting,333.0,17.0
+Quality Assurance Manager,Planning,317.0,18.0
+Quality Assurance Manager,Metrics,312.0,19.0
+Quality Assurance Specialist,Quality Assurance,1433.0,0.0
+Quality Assurance Specialist,Management,1246.0,1.0
+Quality Assurance Specialist,QA,1244.0,2.0
+Quality Assurance Specialist,Compliance,895.0,3.0
+Quality Assurance Specialist,Training,816.0,4.0
+Quality Assurance Specialist,Communications,782.0,5.0
+Quality Assurance Specialist,Education,774.0,6.0
+Quality Assurance Specialist,Documentation,715.0,7.0
+Quality Assurance Specialist,Manufacturing,688.0,8.0
+Quality Assurance Specialist,Testing,658.0,9.0
+Quality Assurance Specialist,Operations,561.0,10.0
+Quality Assurance Specialist,Software,508.0,11.0
+Quality Assurance Specialist,IT,463.0,12.0
+Quality Assurance Specialist,production,458.0,13.0
+Quality Assurance Specialist,Writing,434.0,14.0
+Quality Assurance Specialist,Audit,406.0,15.0
+Quality Assurance Specialist,Engineering,368.0,16.0
+Quality Assurance Specialist,Microsoft Excel,355.0,17.0
+Quality Assurance Specialist,Implementation,347.0,18.0
+Quality Assurance Specialist,Monitoring,345.0,19.0
+Quality Assurance Tester,QA,1740.0,0.0
+Quality Assurance Tester,Testing,1718.0,1.0
+Quality Assurance Tester,Software,1075.0,2.0
+Quality Assurance Tester,Communications,818.0,3.0
+Quality Assurance Tester,Management,777.0,4.0
+Quality Assurance Tester,Quality Assurance,741.0,5.0
+Quality Assurance Tester,IT,718.0,6.0
+Quality Assurance Tester,Automation,701.0,7.0
+Quality Assurance Tester,SQL,617.0,8.0
+Quality Assurance Tester,Agile,563.0,9.0
+Quality Assurance Tester,Integration,406.0,10.0
+Quality Assurance Tester,Database,404.0,11.0
+Quality Assurance Tester,Writing,392.0,12.0
+Quality Assurance Tester,Documentation,374.0,13.0
+Quality Assurance Tester,Computer Science,324.0,14.0
+Quality Assurance Tester,Selenium,319.0,15.0
+Quality Assurance Tester,Java,318.0,16.0
+Quality Assurance Tester,Engineering,300.0,17.0
+Quality Assurance Tester,Mobile,299.0,18.0
+Quality Assurance Tester,Programming,286.0,19.0
+Ruby Developer,Ruby,309.0,0.0
+Ruby Developer,JavaScript,194.0,1.0
+Ruby Developer,Agile,162.0,2.0
+Ruby Developer,Software,153.0,3.0
+Ruby Developer,CSS,151.0,4.0
+Ruby Developer,IT,129.0,5.0
+Ruby Developer,Programming,129.0,6.0
+Ruby Developer,Git,117.0,7.0
+Ruby Developer,Database,112.0,8.0
+Ruby Developer,Integration,100.0,9.0
+Ruby Developer,Testing,100.0,10.0
+Ruby Developer,Communications,92.0,11.0
+Ruby Developer,Java,84.0,12.0
+Ruby Developer,Management,82.0,13.0
+Ruby Developer,SQL,82.0,14.0
+Ruby Developer,HTML,82.0,15.0
+Ruby Developer,MVC,81.0,16.0
+Ruby Developer,RESTful,78.0,17.0
+Ruby Developer,REST,77.0,18.0
+Ruby Developer,RSpec,77.0,19.0
+Ruby on Rails Developer,Ruby,1210.0,0.0
+Ruby on Rails Developer,JavaScript,762.0,1.0
+Ruby on Rails Developer,Software,630.0,2.0
+Ruby on Rails Developer,IT,484.0,3.0
+Ruby on Rails Developer,Agile,473.0,4.0
+Ruby on Rails Developer,CSS,456.0,5.0
+Ruby on Rails Developer,HTML,415.0,6.0
+Ruby on Rails Developer,Computer Science,344.0,7.0
+Ruby on Rails Developer,jQuery,339.0,8.0
+Ruby on Rails Developer,Testing,330.0,9.0
+Ruby on Rails Developer,Programming,322.0,10.0
+Ruby on Rails Developer,Git,308.0,11.0
+Ruby on Rails Developer,MySQL,295.0,12.0
+Ruby on Rails Developer,Engineering,285.0,13.0
+Ruby on Rails Developer,SQL,282.0,14.0
+Ruby on Rails Developer,Management,269.0,15.0
+Ruby on Rails Developer,Communications,261.0,16.0
+Ruby on Rails Developer,Integration,260.0,17.0
+Ruby on Rails Developer,PostgreSQL,242.0,18.0
+Ruby on Rails Developer,Database,239.0,19.0
+Senior .NET Developer,.NET,4256.0,0.0
+Senior .NET Developer,C#,3353.0,1.0
+Senior .NET Developer,SQL,3336.0,2.0
+Senior .NET Developer,Software,2767.0,3.0
+Senior .NET Developer,ASP.NET,2502.0,4.0
+Senior .NET Developer,JavaScript,2491.0,5.0
+Senior .NET Developer,MVC,2204.0,6.0
+Senior .NET Developer,IT,1939.0,7.0
+Senior .NET Developer,Framework,1804.0,8.0
+Senior .NET Developer,SQL Server,1692.0,9.0
+Senior .NET Developer,jQuery,1658.0,10.0
+Senior .NET Developer,Management,1644.0,11.0
+Senior .NET Developer,Agile,1625.0,12.0
+Senior .NET Developer,Communications,1613.0,13.0
+Senior .NET Developer,Testing,1596.0,14.0
+Senior .NET Developer,Programming,1406.0,15.0
+Senior .NET Developer,WCF,1315.0,16.0
+Senior .NET Developer,CSS,1306.0,17.0
+Senior .NET Developer,HTML,1296.0,18.0
+Senior .NET Developer,Database,1289.0,19.0
+Senior .NET/C# Software Engineer,Software,147.0,0.0
+Senior .NET/C# Software Engineer,C#,145.0,1.0
+Senior .NET/C# Software Engineer,.NET,135.0,2.0
+Senior .NET/C# Software Engineer,SQL,112.0,3.0
+Senior .NET/C# Software Engineer,C# .net,74.0,4.0
+Senior .NET/C# Software Engineer,MVC,73.0,5.0
+Senior .NET/C# Software Engineer,ASP.NET,68.0,6.0
+Senior .NET/C# Software Engineer,Agile,68.0,7.0
+Senior .NET/C# Software Engineer,JavaScript,63.0,8.0
+Senior .NET/C# Software Engineer,SQL Server,63.0,9.0
+Senior .NET/C# Software Engineer,Framework,61.0,10.0
+Senior .NET/C# Software Engineer,WCF,57.0,11.0
+Senior .NET/C# Software Engineer,Computer Science,56.0,12.0
+Senior .NET/C# Software Engineer,Testing,55.0,13.0
+Senior .NET/C# Software Engineer,IT,55.0,14.0
+Senior .NET/C# Software Engineer,Programming,52.0,15.0
+Senior .NET/C# Software Engineer,Communications,50.0,16.0
+Senior .NET/C# Software Engineer,jQuery,48.0,17.0
+Senior .NET/C# Software Engineer,Management,47.0,18.0
+Senior .NET/C# Software Engineer,Engineering,47.0,19.0
+Senior Android Developer,Android,831.0,0.0
+Senior Android Developer,Mobile,659.0,1.0
+Senior Android Developer,Java,583.0,2.0
+Senior Android Developer,Software,446.0,3.0
+Senior Android Developer,SDK,412.0,4.0
+Senior Android Developer,IT,327.0,5.0
+Senior Android Developer,Computer Science,318.0,6.0
+Senior Android Developer,Agile,267.0,7.0
+Senior Android Developer,REST,249.0,8.0
+Senior Android Developer,Testing,239.0,9.0
+Senior Android Developer,Communications,231.0,10.0
+Senior Android Developer,iOS,229.0,11.0
+Senior Android Developer,Engineering,228.0,12.0
+Senior Android Developer,UI,212.0,13.0
+Senior Android Developer,Integration,203.0,14.0
+Senior Android Developer,Programming,200.0,15.0
+Senior Android Developer,Management,193.0,16.0
+Senior Android Developer,Git,186.0,17.0
+Senior Android Developer,JSON,185.0,18.0
+Senior Android Developer,XML,172.0,19.0
+Senior Application Developer,Software,1117.0,0.0
+Senior Application Developer,SQL,930.0,1.0
+Senior Application Developer,Management,887.0,2.0
+Senior Application Developer,.NET,863.0,3.0
+Senior Application Developer,Testing,783.0,4.0
+Senior Application Developer,IT,779.0,5.0
+Senior Application Developer,JavaScript,753.0,6.0
+Senior Application Developer,Programming,746.0,7.0
+Senior Application Developer,Communications,664.0,8.0
+Senior Application Developer,Integration,639.0,9.0
+Senior Application Developer,C#,634.0,10.0
+Senior Application Developer,Architecture,607.0,11.0
+Senior Application Developer,Java,588.0,12.0
+Senior Application Developer,Documentation,562.0,13.0
+Senior Application Developer,Implementation,556.0,14.0
+Senior Application Developer,Agile,552.0,15.0
+Senior Application Developer,production,524.0,16.0
+Senior Application Developer,Computer Science,522.0,17.0
+Senior Application Developer,Database,483.0,18.0
+Senior Application Developer,HTML,479.0,19.0
+Senior Back End Developer,Software,119.0,0.0
+Senior Back End Developer,JavaScript,95.0,1.0
+Senior Back End Developer,IT,81.0,2.0
+Senior Back End Developer,REST,79.0,3.0
+Senior Back End Developer,Java,74.0,4.0
+Senior Back End Developer,Agile,74.0,5.0
+Senior Back End Developer,cloud,73.0,6.0
+Senior Back End Developer,Management,72.0,7.0
+Senior Back End Developer,Computer Science,69.0,8.0
+Senior Back End Developer,Engineering,65.0,9.0
+Senior Back End Developer,Git,65.0,10.0
+Senior Back End Developer,NoSQL,62.0,11.0
+Senior Back End Developer,Node.js,60.0,12.0
+Senior Back End Developer,Testing,58.0,13.0
+Senior Back End Developer,Database,53.0,14.0
+Senior Back End Developer,Writing,52.0,15.0
+Senior Back End Developer,Integration,51.0,16.0
+Senior Back End Developer,Programming,50.0,17.0
+Senior Back End Developer,MySQL,49.0,18.0
+Senior Back End Developer,Python,48.0,19.0
+Senior Back End Java Developer,Java,118.0,0.0
+Senior Back End Java Developer,Spring,64.0,1.0
+Senior Back End Java Developer,Software,61.0,2.0
+Senior Back End Java Developer,Communications,47.0,3.0
+Senior Back End Java Developer,Integration,47.0,4.0
+Senior Back End Java Developer,Computer Science,46.0,5.0
+Senior Back End Java Developer,Testing,44.0,6.0
+Senior Back End Java Developer,SQL,41.0,7.0
+Senior Back End Java Developer,j2ee,39.0,8.0
+Senior Back End Java Developer,REST,39.0,9.0
+Senior Back End Java Developer,JavaScript,38.0,10.0
+Senior Back End Java Developer,Agile,37.0,11.0
+Senior Back End Java Developer,IT,36.0,12.0
+Senior Back End Java Developer,Hibernate,32.0,13.0
+Senior Back End Java Developer,Git,29.0,14.0
+Senior Back End Java Developer,NoSQL,29.0,15.0
+Senior Back End Java Developer,Database,28.0,16.0
+Senior Back End Java Developer,Engineering,28.0,17.0
+Senior Back End Java Developer,Management,26.0,18.0
+Senior Back End Java Developer,Linux,25.0,19.0
+Senior Data Analyst,Management,1465.0,0.0
+Senior Data Analyst,SQL,1325.0,1.0
+Senior Data Analyst,Reporting,1180.0,2.0
+Senior Data Analyst,Communications,1061.0,3.0
+Senior Data Analyst,IT,957.0,4.0
+Senior Data Analyst,Database,914.0,5.0
+Senior Data Analyst,Analytics,887.0,6.0
+Senior Data Analyst,Microsoft Excel,862.0,7.0
+Senior Data Analyst,Software,716.0,8.0
+Senior Data Analyst,Access,669.0,9.0
+Senior Data Analyst,Education,641.0,10.0
+Senior Data Analyst,Research,608.0,11.0
+Senior Data Analyst,Modeling,575.0,12.0
+Senior Data Analyst,Operations,563.0,13.0
+Senior Data Analyst,SAS,553.0,14.0
+Senior Data Analyst,Training,533.0,15.0
+Senior Data Analyst,Statistics,527.0,16.0
+Senior Data Analyst,Testing,501.0,17.0
+Senior Data Analyst,Problem Solving,461.0,18.0
+Senior Data Analyst,Implementation,450.0,19.0
+Senior Database Administrator,Database,2359.0,0.0
+Senior Database Administrator,Oracle,1626.0,1.0
+Senior Database Administrator,Management,1587.0,2.0
+Senior Database Administrator,SQL,1574.0,3.0
+Senior Database Administrator,Recovery,1471.0,4.0
+Senior Database Administrator,DBA,1459.0,5.0
+Senior Database Administrator,Security,1380.0,6.0
+Senior Database Administrator,production,1145.0,7.0
+Senior Database Administrator,IT,1135.0,8.0
+Senior Database Administrator,Software,1107.0,9.0
+Senior Database Administrator,Monitoring,1100.0,10.0
+Senior Database Administrator,Communications,1089.0,11.0
+Senior Database Administrator,Implementation,977.0,12.0
+Senior Database Administrator,Linux,935.0,13.0
+Senior Database Administrator,Planning,873.0,14.0
+Senior Database Administrator,Troubleshooting,852.0,15.0
+Senior Database Administrator,Unix,812.0,16.0
+Senior Database Administrator,Computer Science,801.0,17.0
+Senior Database Administrator,Documentation,762.0,18.0
+Senior Database Administrator,Scripting,747.0,19.0
+Senior Front End Developer,JavaScript,1183.0,0.0
+Senior Front End Developer,CSS,814.0,1.0
+Senior Front End Developer,HTML,627.0,2.0
+Senior Front End Developer,HTML5,594.0,3.0
+Senior Front End Developer,Software,570.0,4.0
+Senior Front End Developer,Mobile,508.0,5.0
+Senior Front End Developer,IT,492.0,6.0
+Senior Front End Developer,CSS3,465.0,7.0
+Senior Front End Developer,AngularJS,464.0,8.0
+Senior Front End Developer,jQuery,457.0,9.0
+Senior Front End Developer,Testing,419.0,10.0
+Senior Front End Developer,UI,390.0,11.0
+Senior Front End Developer,Agile,372.0,12.0
+Senior Front End Developer,Communications,366.0,13.0
+Senior Front End Developer,Management,356.0,14.0
+Senior Front End Developer,SASS,309.0,15.0
+Senior Front End Developer,UX,305.0,16.0
+Senior Front End Developer,Architecture,285.0,17.0
+Senior Front End Developer,Computer Science,279.0,18.0
+Senior Front End Developer,Engineering,270.0,19.0
+Senior Front End Engineer,JavaScript,390.0,0.0
+Senior Front End Engineer,CSS,268.0,1.0
+Senior Front End Engineer,IT,212.0,2.0
+Senior Front End Engineer,Software,211.0,3.0
+Senior Front End Engineer,HTML5,201.0,4.0
+Senior Front End Engineer,HTML,200.0,5.0
+Senior Front End Engineer,Engineering,194.0,6.0
+Senior Front End Engineer,CSS3,161.0,7.0
+Senior Front End Engineer,jQuery,144.0,8.0
+Senior Front End Engineer,Agile,144.0,9.0
+Senior Front End Engineer,Mobile,135.0,10.0
+Senior Front End Engineer,Communications,133.0,11.0
+Senior Front End Engineer,UI,133.0,12.0
+Senior Front End Engineer,Computer Science,132.0,13.0
+Senior Front End Engineer,Testing,129.0,14.0
+Senior Front End Engineer,AngularJS,121.0,15.0
+Senior Front End Engineer,Management,117.0,16.0
+Senior Front End Engineer,Writing,117.0,17.0
+Senior Front End Engineer,Framework,112.0,18.0
+Senior Front End Engineer,SASS,107.0,19.0
+Senior Front End Software Engineer,Software,243.0,0.0
+Senior Front End Software Engineer,JavaScript,228.0,1.0
+Senior Front End Software Engineer,CSS,154.0,2.0
+Senior Front End Software Engineer,Engineering,152.0,3.0
+Senior Front End Software Engineer,HTML5,129.0,4.0
+Senior Front End Software Engineer,Computer Science,127.0,5.0
+Senior Front End Software Engineer,AngularJS,116.0,6.0
+Senior Front End Software Engineer,HTML,114.0,7.0
+Senior Front End Software Engineer,Agile,113.0,8.0
+Senior Front End Software Engineer,Mobile,112.0,9.0
+Senior Front End Software Engineer,jQuery,99.0,10.0
+Senior Front End Software Engineer,UI,99.0,11.0
+Senior Front End Software Engineer,Testing,95.0,12.0
+Senior Front End Software Engineer,Node.js,92.0,13.0
+Senior Front End Software Engineer,Implementation,90.0,14.0
+Senior Front End Software Engineer,production,90.0,15.0
+Senior Front End Software Engineer,Java,87.0,16.0
+Senior Front End Software Engineer,CSS3,79.0,17.0
+Senior Front End Software Engineer,Git,79.0,18.0
+Senior Front End Software Engineer,IT,74.0,19.0
+Senior Front End Web Developer,JavaScript,232.0,0.0
+Senior Front End Web Developer,CSS,164.0,1.0
+Senior Front End Web Developer,HTML5,157.0,2.0
+Senior Front End Web Developer,HTML,151.0,3.0
+Senior Front End Web Developer,CSS3,137.0,4.0
+Senior Front End Web Developer,jQuery,127.0,5.0
+Senior Front End Web Developer,IT,126.0,6.0
+Senior Front End Web Developer,UI,107.0,7.0
+Senior Front End Web Developer,Mobile,106.0,8.0
+Senior Front End Web Developer,Software,105.0,9.0
+Senior Front End Web Developer,Communications,98.0,10.0
+Senior Front End Web Developer,Testing,98.0,11.0
+Senior Front End Web Developer,AngularJS,86.0,12.0
+Senior Front End Web Developer,Implementation,85.0,13.0
+Senior Front End Web Developer,SASS,84.0,14.0
+Senior Front End Web Developer,Agile,79.0,15.0
+Senior Front End Web Developer,Management,77.0,16.0
+Senior Front End Web Developer,Git,73.0,17.0
+Senior Front End Web Developer,Engineering,69.0,18.0
+Senior Front End Web Developer,Interfaces,69.0,19.0
+Senior Full Stack .NET Developer,.NET,114.0,0.0
+Senior Full Stack .NET Developer,C#,76.0,1.0
+Senior Full Stack .NET Developer,SQL,73.0,2.0
+Senior Full Stack .NET Developer,JavaScript,65.0,3.0
+Senior Full Stack .NET Developer,MVC,63.0,4.0
+Senior Full Stack .NET Developer,ASP.NET,58.0,5.0
+Senior Full Stack .NET Developer,Software,55.0,6.0
+Senior Full Stack .NET Developer,jQuery,43.0,7.0
+Senior Full Stack .NET Developer,Framework,40.0,8.0
+Senior Full Stack .NET Developer,IT,39.0,9.0
+Senior Full Stack .NET Developer,HTML,37.0,10.0
+Senior Full Stack .NET Developer,ASP.NET MVC,35.0,11.0
+Senior Full Stack .NET Developer,CSS,35.0,12.0
+Senior Full Stack .NET Developer,WCF,33.0,13.0
+Senior Full Stack .NET Developer,Testing,30.0,14.0
+Senior Full Stack .NET Developer,production,27.0,15.0
+Senior Full Stack .NET Developer,Communications,27.0,16.0
+Senior Full Stack .NET Developer,Management,27.0,17.0
+Senior Full Stack .NET Developer,API,26.0,18.0
+Senior Full Stack .NET Developer,SQL Server,26.0,19.0
+Senior Full Stack Developer,JavaScript,289.0,0.0
+Senior Full Stack Developer,Software,217.0,1.0
+Senior Full Stack Developer,Agile,164.0,2.0
+Senior Full Stack Developer,CSS,153.0,3.0
+Senior Full Stack Developer,HTML5,120.0,4.0
+Senior Full Stack Developer,IT,120.0,5.0
+Senior Full Stack Developer,HTML,118.0,6.0
+Senior Full Stack Developer,Computer Science,117.0,7.0
+Senior Full Stack Developer,Java,109.0,8.0
+Senior Full Stack Developer,SQL,107.0,9.0
+Senior Full Stack Developer,Linux,103.0,10.0
+Senior Full Stack Developer,Database,102.0,11.0
+Senior Full Stack Developer,Programming,101.0,12.0
+Senior Full Stack Developer,Management,101.0,13.0
+Senior Full Stack Developer,.NET,100.0,14.0
+Senior Full Stack Developer,C#,98.0,15.0
+Senior Full Stack Developer,Testing,98.0,16.0
+Senior Full Stack Developer,Engineering,93.0,17.0
+Senior Full Stack Developer,jQuery,90.0,18.0
+Senior Full Stack Developer,Git,89.0,19.0
+Senior Full Stack Java Developer,Java,167.0,0.0
+Senior Full Stack Java Developer,Software,114.0,1.0
+Senior Full Stack Java Developer,JavaScript,111.0,2.0
+Senior Full Stack Java Developer,Agile,95.0,3.0
+Senior Full Stack Java Developer,Testing,75.0,4.0
+Senior Full Stack Java Developer,Computer Science,73.0,5.0
+Senior Full Stack Java Developer,Spring,69.0,6.0
+Senior Full Stack Java Developer,Architecture,68.0,7.0
+Senior Full Stack Java Developer,IT,65.0,8.0
+Senior Full Stack Java Developer,RESTful,63.0,9.0
+Senior Full Stack Java Developer,SQL,61.0,10.0
+Senior Full Stack Java Developer,HTML,55.0,11.0
+Senior Full Stack Java Developer,Engineering,50.0,12.0
+Senior Full Stack Java Developer,Scrum,50.0,13.0
+Senior Full Stack Java Developer,Programming,49.0,14.0
+Senior Full Stack Java Developer,Database,48.0,15.0
+Senior Full Stack Java Developer,AngularJS,47.0,16.0
+Senior Full Stack Java Developer,Communications,47.0,17.0
+Senior Full Stack Java Developer,CSS,46.0,18.0
+Senior Full Stack Java Developer,Management,45.0,19.0
+Senior Full Stack Software Engineer,Software,128.0,0.0
+Senior Full Stack Software Engineer,JavaScript,87.0,1.0
+Senior Full Stack Software Engineer,Computer Science,80.0,2.0
+Senior Full Stack Software Engineer,Engineering,76.0,3.0
+Senior Full Stack Software Engineer,Agile,66.0,4.0
+Senior Full Stack Software Engineer,Programming,63.0,5.0
+Senior Full Stack Software Engineer,Java,63.0,6.0
+Senior Full Stack Software Engineer,Management,63.0,7.0
+Senior Full Stack Software Engineer,Architecture,52.0,8.0
+Senior Full Stack Software Engineer,SQL,48.0,9.0
+Senior Full Stack Software Engineer,Python,47.0,10.0
+Senior Full Stack Software Engineer,IT,46.0,11.0
+Senior Full Stack Software Engineer,API,43.0,12.0
+Senior Full Stack Software Engineer,AngularJS,43.0,13.0
+Senior Full Stack Software Engineer,cloud,43.0,14.0
+Senior Full Stack Software Engineer,Database,43.0,15.0
+Senior Full Stack Software Engineer,CSS,42.0,16.0
+Senior Full Stack Software Engineer,HTML5,40.0,17.0
+Senior Full Stack Software Engineer,Communications,39.0,18.0
+Senior Full Stack Software Engineer,UI,36.0,19.0
+Senior iOS Developer,iOS,996.0,0.0
+Senior iOS Developer,Mobile,777.0,1.0
+Senior iOS Developer,Objective-C,590.0,2.0
+Senior iOS Developer,Software,574.0,3.0
+Senior iOS Developer,Swift,528.0,4.0
+Senior iOS Developer,IT,407.0,5.0
+Senior iOS Developer,Computer Science,407.0,6.0
+Senior iOS Developer,Xcode,344.0,7.0
+Senior iOS Developer,Architecture,292.0,8.0
+Senior iOS Developer,Agile,290.0,9.0
+Senior iOS Developer,C,283.0,10.0
+Senior iOS Developer,Programming,279.0,11.0
+Senior iOS Developer,Communications,276.0,12.0
+Senior iOS Developer,Management,272.0,13.0
+Senior iOS Developer,Apple,267.0,14.0
+Senior iOS Developer,SDK,250.0,15.0
+Senior iOS Developer,Engineering,246.0,16.0
+Senior iOS Developer,Testing,220.0,17.0
+Senior iOS Developer,Cocoa,214.0,18.0
+Senior iOS Developer,REST,213.0,19.0
+Senior Java Developer,Java,5914.0,0.0
+Senior Java Developer,Software,3704.0,1.0
+Senior Java Developer,Spring,3039.0,2.0
+Senior Java Developer,SQL,2488.0,3.0
+Senior Java Developer,j2ee,2415.0,4.0
+Senior Java Developer,Agile,2376.0,5.0
+Senior Java Developer,Testing,2331.0,6.0
+Senior Java Developer,Management,2304.0,7.0
+Senior Java Developer,IT,2253.0,8.0
+Senior Java Developer,Communications,2231.0,9.0
+Senior Java Developer,Oracle,2179.0,10.0
+Senior Java Developer,JavaScript,2154.0,11.0
+Senior Java Developer,Programming,1972.0,12.0
+Senior Java Developer,Integration,1966.0,13.0
+Senior Java Developer,Hibernate,1893.0,14.0
+Senior Java Developer,Architecture,1817.0,15.0
+Senior Java Developer,XML,1782.0,16.0
+Senior Java Developer,Computer Science,1779.0,17.0
+Senior Java Developer,Database,1752.0,18.0
+Senior Java Developer,Engineering,1588.0,19.0
+Senior Mobile Developer,Mobile,313.0,0.0
+Senior Mobile Developer,iOS,244.0,1.0
+Senior Mobile Developer,Android,229.0,2.0
+Senior Mobile Developer,Software,177.0,3.0
+Senior Mobile Developer,IT,145.0,4.0
+Senior Mobile Developer,Java,124.0,5.0
+Senior Mobile Developer,Agile,121.0,6.0
+Senior Mobile Developer,Testing,113.0,7.0
+Senior Mobile Developer,JavaScript,108.0,8.0
+Senior Mobile Developer,Integration,97.0,9.0
+Senior Mobile Developer,Programming,85.0,10.0
+Senior Mobile Developer,Swift,84.0,11.0
+Senior Mobile Developer,Computer Science,83.0,12.0
+Senior Mobile Developer,Management,81.0,13.0
+Senior Mobile Developer,Engineering,79.0,14.0
+Senior Mobile Developer,Objective-C,74.0,15.0
+Senior Mobile Developer,Communications,71.0,16.0
+Senior Mobile Developer,REST,71.0,17.0
+Senior Mobile Developer,UI,66.0,18.0
+Senior Mobile Developer,CSS,65.0,19.0
+Senior Network Engineer,Network,4829.0,0.0
+Senior Network Engineer,Cisco,3514.0,1.0
+Senior Network Engineer,Management,3145.0,2.0
+Senior Network Engineer,Security,3109.0,3.0
+Senior Network Engineer,Engineering,2794.0,4.0
+Senior Network Engineer,Infrastructure,2734.0,5.0
+Senior Network Engineer,IT,2722.0,6.0
+Senior Network Engineer,Networking,2485.0,7.0
+Senior Network Engineer,Routing,2459.0,8.0
+Senior Network Engineer,Troubleshooting,2397.0,9.0
+Senior Network Engineer,Switches,2284.0,10.0
+Senior Network Engineer,Implementation,2269.0,11.0
+Senior Network Engineer,Software,2269.0,12.0
+Senior Network Engineer,Routers,2236.0,13.0
+Senior Network Engineer,WAN,2186.0,14.0
+Senior Network Engineer,Hardware,2081.0,15.0
+Senior Network Engineer,LAN,2036.0,16.0
+Senior Network Engineer,configuration,2001.0,17.0
+Senior Network Engineer,IP,1985.0,18.0
+Senior Network Engineer,Communications,1941.0,19.0
+Senior PHP Developer,PHP,600.0,0.0
+Senior PHP Developer,JavaScript,460.0,1.0
+Senior PHP Developer,MySQL,369.0,2.0
+Senior PHP Developer,Software,287.0,3.0
+Senior PHP Developer,CSS,275.0,4.0
+Senior PHP Developer,HTML,273.0,5.0
+Senior PHP Developer,IT,270.0,6.0
+Senior PHP Developer,jQuery,242.0,7.0
+Senior PHP Developer,MVC,238.0,8.0
+Senior PHP Developer,LAMP,178.0,9.0
+Senior PHP Developer,Git,170.0,10.0
+Senior PHP Developer,Programming,169.0,11.0
+Senior PHP Developer,Laravel,161.0,12.0
+Senior PHP Developer,Agile,159.0,13.0
+Senior PHP Developer,SQL,155.0,14.0
+Senior PHP Developer,Zend,151.0,15.0
+Senior PHP Developer,Database,151.0,16.0
+Senior PHP Developer,Linux,148.0,17.0
+Senior PHP Developer,Framework,145.0,18.0
+Senior PHP Developer,Management,140.0,19.0
+Senior Python Developer,Python,144.0,0.0
+Senior Python Developer,Software,77.0,1.0
+Senior Python Developer,JavaScript,66.0,2.0
+Senior Python Developer,IT,60.0,3.0
+Senior Python Developer,Django,57.0,4.0
+Senior Python Developer,Programming,56.0,5.0
+Senior Python Developer,SQL,56.0,6.0
+Senior Python Developer,Java,54.0,7.0
+Senior Python Developer,Communications,51.0,8.0
+Senior Python Developer,Computer Science,43.0,9.0
+Senior Python Developer,Testing,41.0,10.0
+Senior Python Developer,Linux,40.0,11.0
+Senior Python Developer,C++,38.0,12.0
+Senior Python Developer,Engineering,37.0,13.0
+Senior Python Developer,Management,36.0,14.0
+Senior Python Developer,Framework,35.0,15.0
+Senior Python Developer,Git,35.0,16.0
+Senior Python Developer,Unix,32.0,17.0
+Senior Python Developer,Architecture,30.0,18.0
+Senior Python Developer,Finance,29.0,19.0
+Senior Quality Assurance Analyst,Testing,835.0,0.0
+Senior Quality Assurance Analyst,QA,787.0,1.0
+Senior Quality Assurance Analyst,Quality Assurance,670.0,2.0
+Senior Quality Assurance Analyst,Software,634.0,3.0
+Senior Quality Assurance Analyst,Management,606.0,4.0
+Senior Quality Assurance Analyst,Communications,505.0,5.0
+Senior Quality Assurance Analyst,SQL,471.0,6.0
+Senior Quality Assurance Analyst,Automation,457.0,7.0
+Senior Quality Assurance Analyst,IT,422.0,8.0
+Senior Quality Assurance Analyst,Agile,377.0,9.0
+Senior Quality Assurance Analyst,Planning,359.0,10.0
+Senior Quality Assurance Analyst,Reporting,293.0,11.0
+Senior Quality Assurance Analyst,Documentation,261.0,12.0
+Senior Quality Assurance Analyst,Integration,257.0,13.0
+Senior Quality Assurance Analyst,Database,256.0,14.0
+Senior Quality Assurance Analyst,Computer Science,247.0,15.0
+Senior Quality Assurance Analyst,Writing,244.0,16.0
+Senior Quality Assurance Analyst,Implementation,236.0,17.0
+Senior Quality Assurance Analyst,Education,232.0,18.0
+Senior Quality Assurance Analyst,Training,226.0,19.0
+Senior Quality Assurance Engineer,QA,1135.0,0.0
+Senior Quality Assurance Engineer,Testing,1076.0,1.0
+Senior Quality Assurance Engineer,Software,869.0,2.0
+Senior Quality Assurance Engineer,Automation,787.0,3.0
+Senior Quality Assurance Engineer,Quality Assurance,697.0,4.0
+Senior Quality Assurance Engineer,Management,693.0,5.0
+Senior Quality Assurance Engineer,Engineering,689.0,6.0
+Senior Quality Assurance Engineer,Communications,638.0,7.0
+Senior Quality Assurance Engineer,Agile,596.0,8.0
+Senior Quality Assurance Engineer,Computer Science,535.0,9.0
+Senior Quality Assurance Engineer,SQL,491.0,10.0
+Senior Quality Assurance Engineer,Java,483.0,11.0
+Senior Quality Assurance Engineer,Selenium,481.0,12.0
+Senior Quality Assurance Engineer,IT,459.0,13.0
+Senior Quality Assurance Engineer,Integration,434.0,14.0
+Senior Quality Assurance Engineer,Scripting,366.0,15.0
+Senior Quality Assurance Engineer,Education,320.0,16.0
+Senior Quality Assurance Engineer,Writing,318.0,17.0
+Senior Quality Assurance Engineer,Programming,296.0,18.0
+Senior Quality Assurance Engineer,Mobile,293.0,19.0
+Senior Ruby on Rails Developer,Ruby,336.0,0.0
+Senior Ruby on Rails Developer,JavaScript,253.0,1.0
+Senior Ruby on Rails Developer,IT,176.0,2.0
+Senior Ruby on Rails Developer,Software,175.0,3.0
+Senior Ruby on Rails Developer,Agile,132.0,4.0
+Senior Ruby on Rails Developer,CSS,117.0,5.0
+Senior Ruby on Rails Developer,RSpec,101.0,6.0
+Senior Ruby on Rails Developer,MySQL,99.0,7.0
+Senior Ruby on Rails Developer,Programming,94.0,8.0
+Senior Ruby on Rails Developer,HTML,90.0,9.0
+Senior Ruby on Rails Developer,Compliance,87.0,10.0
+Senior Ruby on Rails Developer,Engineering,84.0,11.0
+Senior Ruby on Rails Developer,jQuery,84.0,12.0
+Senior Ruby on Rails Developer,HTML5,78.0,13.0
+Senior Ruby on Rails Developer,Git,76.0,14.0
+Senior Ruby on Rails Developer,PostgreSQL,76.0,15.0
+Senior Ruby on Rails Developer,Testing,76.0,16.0
+Senior Ruby on Rails Developer,Management,70.0,17.0
+Senior Ruby on Rails Developer,Computer Science,68.0,18.0
+Senior Ruby on Rails Developer,Mobile,67.0,19.0
+Senior SharePoint Developer,SharePoint,300.0,0.0
+Senior SharePoint Developer,.NET,241.0,1.0
+Senior SharePoint Developer,JavaScript,185.0,2.0
+Senior SharePoint Developer,Software,179.0,3.0
+Senior SharePoint Developer,Management,170.0,4.0
+Senior SharePoint Developer,Security,141.0,5.0
+Senior SharePoint Developer,C#,139.0,6.0
+Senior SharePoint Developer,IT,134.0,7.0
+Senior SharePoint Developer,SQL,134.0,8.0
+Senior SharePoint Developer,CSS,131.0,9.0
+Senior SharePoint Developer,HTML,129.0,10.0
+Senior SharePoint Developer,ASP.NET,121.0,11.0
+Senior SharePoint Developer,jQuery,118.0,12.0
+Senior SharePoint Developer,Government,117.0,13.0
+Senior SharePoint Developer,configuration,111.0,14.0
+Senior SharePoint Developer,Testing,109.0,15.0
+Senior SharePoint Developer,Architecture,108.0,16.0
+Senior SharePoint Developer,Education,104.0,17.0
+Senior SharePoint Developer,Forms,103.0,18.0
+Senior SharePoint Developer,Visual Studio,97.0,19.0
+Senior Software Architect,Software,431.0,0.0
+Senior Software Architect,Architecture,321.0,1.0
+Senior Software Architect,Engineering,259.0,2.0
+Senior Software Architect,Management,241.0,3.0
+Senior Software Architect,Communications,210.0,4.0
+Senior Software Architect,Java,208.0,5.0
+Senior Software Architect,Integration,195.0,6.0
+Senior Software Architect,Implementation,188.0,7.0
+Senior Software Architect,IT,186.0,8.0
+Senior Software Architect,Agile,185.0,9.0
+Senior Software Architect,cloud,171.0,10.0
+Senior Software Architect,Computer Science,169.0,11.0
+Senior Software Architect,Leadership,163.0,12.0
+Senior Software Architect,JavaScript,152.0,13.0
+Senior Software Architect,Programming,138.0,14.0
+Senior Software Architect,SQL,133.0,15.0
+Senior Software Architect,Security,118.0,16.0
+Senior Software Architect,Research,110.0,17.0
+Senior Software Architect,Testing,98.0,18.0
+Senior Software Architect,Database,97.0,19.0
+Senior Software Developer,Software,3176.0,0.0
+Senior Software Developer,SQL,1564.0,1.0
+Senior Software Developer,IT,1489.0,2.0
+Senior Software Developer,Testing,1471.0,3.0
+Senior Software Developer,Management,1458.0,4.0
+Senior Software Developer,Programming,1427.0,5.0
+Senior Software Developer,JavaScript,1360.0,6.0
+Senior Software Developer,Agile,1299.0,7.0
+Senior Software Developer,C#,1296.0,8.0
+Senior Software Developer,Computer Science,1294.0,9.0
+Senior Software Developer,Java,1294.0,10.0
+Senior Software Developer,Engineering,1274.0,11.0
+Senior Software Developer,Communications,1245.0,12.0
+Senior Software Developer,.NET,1119.0,13.0
+Senior Software Developer,Integration,1032.0,14.0
+Senior Software Developer,Education,1024.0,15.0
+Senior Software Developer,Database,971.0,16.0
+Senior Software Developer,Architecture,929.0,17.0
+Senior Software Developer,Security,820.0,18.0
+Senior Software Developer,Documentation,789.0,19.0
+Senior Software Development Engineer,Software,1080.0,0.0
+Senior Software Development Engineer,Software Development,832.0,1.0
+Senior Software Development Engineer,Engineering,601.0,2.0
+Senior Software Development Engineer,Computer Science,515.0,3.0
+Senior Software Development Engineer,IT,510.0,4.0
+Senior Software Development Engineer,Java,504.0,5.0
+Senior Software Development Engineer,Management,432.0,6.0
+Senior Software Development Engineer,Testing,416.0,7.0
+Senior Software Development Engineer,Agile,405.0,8.0
+Senior Software Development Engineer,Programming,396.0,9.0
+Senior Software Development Engineer,Communications,393.0,10.0
+Senior Software Development Engineer,C++,388.0,11.0
+Senior Software Development Engineer,cloud,364.0,12.0
+Senior Software Development Engineer,Architecture,353.0,13.0
+Senior Software Development Engineer,Implementation,316.0,14.0
+Senior Software Development Engineer,JavaScript,296.0,15.0
+Senior Software Development Engineer,C#,282.0,16.0
+Senior Software Development Engineer,SQL,276.0,17.0
+Senior Software Development Engineer,Algorithms,260.0,18.0
+Senior Software Development Engineer,Mobile,254.0,19.0
+Senior Software Engineer,Software,5329.0,0.0
+Senior Software Engineer,Engineering,3047.0,1.0
+Senior Software Engineer,Java,2562.0,2.0
+Senior Software Engineer,Computer Science,2339.0,3.0
+Senior Software Engineer,Testing,2269.0,4.0
+Senior Software Engineer,Agile,2217.0,5.0
+Senior Software Engineer,Management,2199.0,6.0
+Senior Software Engineer,Programming,2154.0,7.0
+Senior Software Engineer,Communications,2108.0,8.0
+Senior Software Engineer,IT,1988.0,9.0
+Senior Software Engineer,SQL,1962.0,10.0
+Senior Software Engineer,JavaScript,1884.0,11.0
+Senior Software Engineer,C#,1631.0,12.0
+Senior Software Engineer,Architecture,1575.0,13.0
+Senior Software Engineer,Integration,1534.0,14.0
+Senior Software Engineer,Implementation,1461.0,15.0
+Senior Software Engineer,C++,1382.0,16.0
+Senior Software Engineer,Security,1376.0,17.0
+Senior Software Engineer,.NET,1318.0,18.0
+Senior Software Engineer,Database,1295.0,19.0
+Senior Software Systems Engineer,Software,1148.0,0.0
+Senior Software Systems Engineer,Management,617.0,1.0
+Senior Software Systems Engineer,Java,605.0,2.0
+Senior Software Systems Engineer,Engineering,570.0,3.0
+Senior Software Systems Engineer,IT,565.0,4.0
+Senior Software Systems Engineer,Communications,444.0,5.0
+Senior Software Systems Engineer,Programming,435.0,6.0
+Senior Software Systems Engineer,Hardware,412.0,7.0
+Senior Software Systems Engineer,Integration,393.0,8.0
+Senior Software Systems Engineer,Implementation,347.0,9.0
+Senior Software Systems Engineer,Network,331.0,10.0
+Senior Software Systems Engineer,SQL,327.0,11.0
+Senior Software Systems Engineer,Security,322.0,12.0
+Senior Software Systems Engineer,Research,318.0,13.0
+Senior Software Systems Engineer,Testing,317.0,14.0
+Senior Software Systems Engineer,Architecture,296.0,15.0
+Senior Software Systems Engineer,Scripting,274.0,16.0
+Senior Software Systems Engineer,Linux,271.0,17.0
+Senior Software Systems Engineer,JavaScript,265.0,18.0
+Senior Software Systems Engineer,Monitoring,264.0,19.0
+Senior Systems Administrator,Software,2180.0,0.0
+Senior Systems Administrator,Management,2070.0,1.0
+Senior Systems Administrator,Security,2012.0,2.0
+Senior Systems Administrator,Hardware,1823.0,3.0
+Senior Systems Administrator,IT,1780.0,4.0
+Senior Systems Administrator,Windows,1778.0,5.0
+Senior Systems Administrator,Network,1681.0,6.0
+Senior Systems Administrator,configuration,1522.0,7.0
+Senior Systems Administrator,Infrastructure,1493.0,8.0
+Senior Systems Administrator,Education,1366.0,9.0
+Senior Systems Administrator,Troubleshooting,1317.0,10.0
+Senior Systems Administrator,Linux,1295.0,11.0
+Senior Systems Administrator,Monitoring,1211.0,12.0
+Senior Systems Administrator,Storage,1186.0,13.0
+Senior Systems Administrator,Operations,1176.0,14.0
+Senior Systems Administrator,Installation,1173.0,15.0
+Senior Systems Administrator,Documentation,1164.0,16.0
+Senior Systems Administrator,Engineering,1118.0,17.0
+Senior Systems Administrator,VMware,1105.0,18.0
+Senior Systems Administrator,Communications,1062.0,19.0
+Senior Systems Engineer,Engineering,3841.0,0.0
+Senior Systems Engineer,Management,3778.0,1.0
+Senior Systems Engineer,Software,3390.0,2.0
+Senior Systems Engineer,Security,2812.0,3.0
+Senior Systems Engineer,IT,2657.0,4.0
+Senior Systems Engineer,Communications,2152.0,5.0
+Senior Systems Engineer,Hardware,2139.0,6.0
+Senior Systems Engineer,Integration,2138.0,7.0
+Senior Systems Engineer,Network,2128.0,8.0
+Senior Systems Engineer,Infrastructure,1990.0,9.0
+Senior Systems Engineer,Operations,1972.0,10.0
+Senior Systems Engineer,Documentation,1922.0,11.0
+Senior Systems Engineer,Education,1905.0,12.0
+Senior Systems Engineer,Implementation,1672.0,13.0
+Senior Systems Engineer,Architecture,1668.0,14.0
+Senior Systems Engineer,Windows,1666.0,15.0
+Senior Systems Engineer,Planning,1615.0,16.0
+Senior Systems Engineer,configuration,1575.0,17.0
+Senior Systems Engineer,Testing,1551.0,18.0
+Senior Systems Engineer,Linux,1512.0,19.0
+Senior Web Developer,JavaScript,1445.0,0.0
+Senior Web Developer,Software,1059.0,1.0
+Senior Web Developer,CSS,952.0,2.0
+Senior Web Developer,HTML,939.0,3.0
+Senior Web Developer,Management,838.0,4.0
+Senior Web Developer,jQuery,826.0,5.0
+Senior Web Developer,SQL,751.0,6.0
+Senior Web Developer,IT,750.0,7.0
+Senior Web Developer,Communications,722.0,8.0
+Senior Web Developer,Testing,655.0,9.0
+Senior Web Developer,Programming,604.0,10.0
+Senior Web Developer,Computer Science,600.0,11.0
+Senior Web Developer,Database,581.0,12.0
+Senior Web Developer,Agile,576.0,13.0
+Senior Web Developer,Framework,564.0,14.0
+Senior Web Developer,Java,516.0,15.0
+Senior Web Developer,C#,509.0,16.0
+Senior Web Developer,Education,491.0,17.0
+Senior Web Developer,HTML5,484.0,18.0
+Senior Web Developer,production,470.0,19.0
+SharePoint Developer,SharePoint,768.0,0.0
+SharePoint Developer,.NET,484.0,1.0
+SharePoint Developer,JavaScript,443.0,2.0
+SharePoint Developer,SQL,407.0,3.0
+SharePoint Developer,Management,406.0,4.0
+SharePoint Developer,C#,399.0,5.0
+SharePoint Developer,Software,379.0,6.0
+SharePoint Developer,CSS,354.0,7.0
+SharePoint Developer,IT,324.0,8.0
+SharePoint Developer,HTML,322.0,9.0
+SharePoint Developer,jQuery,315.0,10.0
+SharePoint Developer,Security,276.0,11.0
+SharePoint Developer,Forms,265.0,12.0
+SharePoint Developer,Visual Studio,263.0,13.0
+SharePoint Developer,XML,257.0,14.0
+SharePoint Developer,Implementation,251.0,15.0
+SharePoint Developer,Architecture,244.0,16.0
+SharePoint Developer,Documentation,236.0,17.0
+SharePoint Developer,ASP.NET,233.0,18.0
+SharePoint Developer,Communications,230.0,19.0
+Software Architect,Software,1597.0,0.0
+Software Architect,Architecture,1055.0,1.0
+Software Architect,Management,864.0,2.0
+Software Architect,IT,845.0,3.0
+Software Architect,Engineering,792.0,4.0
+Software Architect,Computer Science,714.0,5.0
+Software Architect,Java,680.0,6.0
+Software Architect,Communications,675.0,7.0
+Software Architect,Implementation,672.0,8.0
+Software Architect,Leadership,617.0,9.0
+Software Architect,Agile,616.0,10.0
+Software Architect,Integration,597.0,11.0
+Software Architect,Programming,510.0,12.0
+Software Architect,cloud,496.0,13.0
+Software Architect,JavaScript,479.0,14.0
+Software Architect,Security,475.0,15.0
+Software Architect,Education,435.0,16.0
+Software Architect,SQL,433.0,17.0
+Software Architect,Testing,427.0,18.0
+Software Architect,Infrastructure,383.0,19.0
+Software Developer,Software,8319.0,0.0
+Software Developer,Java,3549.0,1.0
+Software Developer,SQL,3459.0,2.0
+Software Developer,Programming,3437.0,3.0
+Software Developer,Management,3293.0,4.0
+Software Developer,JavaScript,3263.0,5.0
+Software Developer,Testing,3256.0,6.0
+Software Developer,Computer Science,3209.0,7.0
+Software Developer,Engineering,3209.0,8.0
+Software Developer,IT,3143.0,9.0
+Software Developer,Communications,2975.0,10.0
+Software Developer,C#,2767.0,11.0
+Software Developer,Agile,2565.0,12.0
+Software Developer,.NET,2374.0,13.0
+Software Developer,Database,2334.0,14.0
+Software Developer,Security,2172.0,15.0
+Software Developer,Integration,2075.0,16.0
+Software Developer,Education,2038.0,17.0
+Software Developer,Documentation,1937.0,18.0
+Software Developer,C++,1872.0,19.0
+Software Development Engineer,Software,2981.0,0.0
+Software Development Engineer,Software Development,2749.0,1.0
+Software Development Engineer,Engineering,1513.0,2.0
+Software Development Engineer,Java,1463.0,3.0
+Software Development Engineer,Computer Science,1455.0,4.0
+Software Development Engineer,Programming,1174.0,5.0
+Software Development Engineer,C++,1160.0,6.0
+Software Development Engineer,Management,1102.0,7.0
+Software Development Engineer,Communications,1046.0,8.0
+Software Development Engineer,Testing,1012.0,9.0
+Software Development Engineer,IT,1003.0,10.0
+Software Development Engineer,Agile,930.0,11.0
+Software Development Engineer,Architecture,927.0,12.0
+Software Development Engineer,Mobile,791.0,13.0
+Software Development Engineer,C,772.0,14.0
+Software Development Engineer,Linux,757.0,15.0
+Software Development Engineer,cloud,752.0,16.0
+Software Development Engineer,Implementation,720.0,17.0
+Software Development Engineer,JavaScript,695.0,18.0
+Software Development Engineer,C#,663.0,19.0
+Software Development Engineer in Test,Software,841.0,0.0
+Software Development Engineer in Test,Testing,742.0,1.0
+Software Development Engineer in Test,Software Development,715.0,2.0
+Software Development Engineer in Test,Automation,666.0,3.0
+Software Development Engineer in Test,SDET,453.0,4.0
+Software Development Engineer in Test,Java,439.0,5.0
+Software Development Engineer in Test,Engineering,416.0,6.0
+Software Development Engineer in Test,Computer Science,412.0,7.0
+Software Development Engineer in Test,Agile,353.0,8.0
+Software Development Engineer in Test,IT,344.0,9.0
+Software Development Engineer in Test,QA,317.0,10.0
+Software Development Engineer in Test,Communications,315.0,11.0
+Software Development Engineer in Test,Programming,302.0,12.0
+Software Development Engineer in Test,Python,288.0,13.0
+Software Development Engineer in Test,Management,276.0,14.0
+Software Development Engineer in Test,Integration,273.0,15.0
+Software Development Engineer in Test,Selenium,267.0,16.0
+Software Development Engineer in Test,Framework,261.0,17.0
+Software Development Engineer in Test,C#,252.0,18.0
+Software Development Engineer in Test,Scripting,244.0,19.0
+Software Development Manager,Software,843.0,0.0
+Software Development Manager,Software Development,721.0,1.0
+Software Development Manager,Management,685.0,2.0
+Software Development Manager,Engineering,498.0,3.0
+Software Development Manager,Agile,450.0,4.0
+Software Development Manager,Communications,406.0,5.0
+Software Development Manager,IT,386.0,6.0
+Software Development Manager,Leadership,358.0,7.0
+Software Development Manager,Computer Science,332.0,8.0
+Software Development Manager,Architecture,326.0,9.0
+Software Development Manager,Scrum,273.0,10.0
+Software Development Manager,Java,269.0,11.0
+Software Development Manager,Planning,244.0,12.0
+Software Development Manager,Mobile,234.0,13.0
+Software Development Manager,Testing,233.0,14.0
+Software Development Manager,Operations,228.0,15.0
+Software Development Manager,Programming,220.0,16.0
+Software Development Manager,JavaScript,208.0,17.0
+Software Development Manager,cloud,207.0,18.0
+Software Development Manager,SQL,193.0,19.0
+Software Engineer,Software,16084.0,0.0
+Software Engineer,Engineering,9477.0,1.0
+Software Engineer,Computer Science,6790.0,2.0
+Software Engineer,Java,6780.0,3.0
+Software Engineer,Programming,6681.0,4.0
+Software Engineer,Testing,6361.0,5.0
+Software Engineer,Management,6293.0,6.0
+Software Engineer,IT,5781.0,7.0
+Software Engineer,Communications,5536.0,8.0
+Software Engineer,C++,4988.0,9.0
+Software Engineer,Agile,4924.0,10.0
+Software Engineer,SQL,4819.0,11.0
+Software Engineer,JavaScript,4752.0,12.0
+Software Engineer,Integration,4605.0,13.0
+Software Engineer,Security,4224.0,14.0
+Software Engineer,Linux,4101.0,15.0
+Software Engineer,C#,3856.0,16.0
+Software Engineer,Education,3808.0,17.0
+Software Engineer,Documentation,3777.0,18.0
+Software Engineer,C,3750.0,19.0
+Software Engineer Intern,Software,1337.0,0.0
+Software Engineer Intern,Engineering,1143.0,1.0
+Software Engineer Intern,Computer Science,808.0,2.0
+Software Engineer Intern,Programming,653.0,3.0
+Software Engineer Intern,Software Engineering,591.0,4.0
+Software Engineer Intern,Java,583.0,5.0
+Software Engineer Intern,Testing,529.0,6.0
+Software Engineer Intern,Communications,499.0,7.0
+Software Engineer Intern,C++,483.0,8.0
+Software Engineer Intern,Management,464.0,9.0
+Software Engineer Intern,JavaScript,398.0,10.0
+Software Engineer Intern,IT,383.0,11.0
+Software Engineer Intern,C,381.0,12.0
+Software Engineer Intern,Python,365.0,13.0
+Software Engineer Intern,Security,362.0,14.0
+Software Engineer Intern,Linux,353.0,15.0
+Software Engineer Intern,Education,348.0,16.0
+Software Engineer Intern,C#,306.0,17.0
+Software Engineer Intern,Mobile,285.0,18.0
+Software Engineer Intern,Problem Solving,279.0,19.0
+Software Quality Assurance Engineer,Software,1087.0,0.0
+Software Quality Assurance Engineer,Testing,946.0,1.0
+Software Quality Assurance Engineer,QA,872.0,2.0
+Software Quality Assurance Engineer,Automation,671.0,3.0
+Software Quality Assurance Engineer,Quality Assurance,621.0,4.0
+Software Quality Assurance Engineer,Engineering,541.0,5.0
+Software Quality Assurance Engineer,Communications,540.0,6.0
+Software Quality Assurance Engineer,Management,520.0,7.0
+Software Quality Assurance Engineer,Agile,467.0,8.0
+Software Quality Assurance Engineer,Computer Science,403.0,9.0
+Software Quality Assurance Engineer,IT,381.0,10.0
+Software Quality Assurance Engineer,Java,368.0,11.0
+Software Quality Assurance Engineer,SQL,342.0,12.0
+Software Quality Assurance Engineer,Documentation,318.0,13.0
+Software Quality Assurance Engineer,Scripting,315.0,14.0
+Software Quality Assurance Engineer,Integration,315.0,15.0
+Software Quality Assurance Engineer,Python,273.0,16.0
+Software Quality Assurance Engineer,Linux,271.0,17.0
+Software Quality Assurance Engineer,Selenium,270.0,18.0
+Software Quality Assurance Engineer,Programming,262.0,19.0
+Software Systems Engineer,Software,1507.0,0.0
+Software Systems Engineer,Engineering,984.0,1.0
+Software Systems Engineer,Management,769.0,2.0
+Software Systems Engineer,Communications,683.0,3.0
+Software Systems Engineer,IT,619.0,4.0
+Software Systems Engineer,Testing,612.0,5.0
+Software Systems Engineer,Programming,601.0,6.0
+Software Systems Engineer,Java,587.0,7.0
+Software Systems Engineer,Computer Science,561.0,8.0
+Software Systems Engineer,Integration,495.0,9.0
+Software Systems Engineer,Documentation,490.0,10.0
+Software Systems Engineer,Architecture,486.0,11.0
+Software Systems Engineer,Linux,486.0,12.0
+Software Systems Engineer,Security,467.0,13.0
+Software Systems Engineer,C++,447.0,14.0
+Software Systems Engineer,Hardware,433.0,15.0
+Software Systems Engineer,Implementation,406.0,16.0
+Software Systems Engineer,Education,397.0,17.0
+Software Systems Engineer,SQL,393.0,18.0
+Software Systems Engineer,Agile,377.0,19.0
+Solutions Architect,Software,3724.0,0.0
+Solutions Architect,Management,2943.0,1.0
+Solutions Architect,Architecture,2838.0,2.0
+Solutions Architect,IT,2589.0,3.0
+Solutions Architect,Implementation,2260.0,4.0
+Solutions Architect,Communications,2136.0,5.0
+Solutions Architect,Engineering,1997.0,6.0
+Solutions Architect,Integration,1894.0,7.0
+Solutions Architect,Leadership,1737.0,8.0
+Solutions Architect,cloud,1626.0,9.0
+Solutions Architect,Infrastructure,1589.0,10.0
+Solutions Architect,Security,1522.0,11.0
+Solutions Architect,Sales,1510.0,12.0
+Solutions Architect,Strategy,1465.0,13.0
+Solutions Architect,Computer Science,1369.0,14.0
+Solutions Architect,Consulting,1364.0,15.0
+Solutions Architect,Education,1127.0,16.0
+Solutions Architect,Planning,1111.0,17.0
+Solutions Architect,Network,1056.0,18.0
+Solutions Architect,Java,1032.0,19.0
+SQL Database Administrator,Database,2735.0,0.0
+SQL Database Administrator,SQL,2691.0,1.0
+SQL Database Administrator,DBA,2270.0,2.0
+SQL Database Administrator,IT,1498.0,3.0
+SQL Database Administrator,Management,1483.0,4.0
+SQL Database Administrator,Security,1387.0,5.0
+SQL Database Administrator,Recovery,1252.0,6.0
+SQL Database Administrator,Monitoring,1213.0,7.0
+SQL Database Administrator,production,1196.0,8.0
+SQL Database Administrator,Communications,943.0,9.0
+SQL Database Administrator,Software,895.0,10.0
+SQL Database Administrator,Troubleshooting,862.0,11.0
+SQL Database Administrator,configuration,723.0,12.0
+SQL Database Administrator,Planning,715.0,13.0
+SQL Database Administrator,Access,708.0,14.0
+SQL Database Administrator,Documentation,695.0,15.0
+SQL Database Administrator,Windows,671.0,16.0
+SQL Database Administrator,Optimization,664.0,17.0
+SQL Database Administrator,Implementation,663.0,18.0
+SQL Database Administrator,Oracle,657.0,19.0
+SQL Developer,SQL,924.0,0.0
+SQL Developer,Database,502.0,1.0
+SQL Developer,IT,406.0,2.0
+SQL Developer,Management,348.0,3.0
+SQL Developer,Software,316.0,4.0
+SQL Developer,Oracle,283.0,5.0
+SQL Developer,ETL,281.0,6.0
+SQL Developer,Communications,280.0,7.0
+SQL Developer,PL/SQL,280.0,8.0
+SQL Developer,Reporting,263.0,9.0
+SQL Developer,Documentation,241.0,10.0
+SQL Developer,Testing,240.0,11.0
+SQL Developer,Implementation,236.0,12.0
+SQL Developer,Computer Science,227.0,13.0
+SQL Developer,Stored Procedures,208.0,14.0
+SQL Developer,Programming,187.0,15.0
+SQL Developer,Security,187.0,16.0
+SQL Developer,Integration,182.0,17.0
+SQL Developer,.NET,176.0,18.0
+SQL Developer,production,162.0,19.0
+Systems Administrator,Software,9707.0,0.0
+Systems Administrator,Management,9183.0,1.0
+Systems Administrator,Security,8626.0,2.0
+Systems Administrator,IT,8487.0,3.0
+Systems Administrator,Windows,8444.0,4.0
+Systems Administrator,Network,7698.0,5.0
+Systems Administrator,Hardware,7608.0,6.0
+Systems Administrator,configuration,6513.0,7.0
+Systems Administrator,Troubleshooting,6230.0,8.0
+Systems Administrator,Infrastructure,5882.0,9.0
+Systems Administrator,Education,5457.0,10.0
+Systems Administrator,Communications,5253.0,11.0
+Systems Administrator,Documentation,5025.0,12.0
+Systems Administrator,Operations,4958.0,13.0
+Systems Administrator,Monitoring,4926.0,14.0
+Systems Administrator,Installation,4904.0,15.0
+Systems Administrator,Linux,4803.0,16.0
+Systems Administrator,Storage,4356.0,17.0
+Systems Administrator,VMware,4314.0,18.0
+Systems Administrator,Training,4247.0,19.0
+Systems Engineer,Engineering,10496.0,0.0
+Systems Engineer,Management,9723.0,1.0
+Systems Engineer,Software,9158.0,2.0
+Systems Engineer,Security,7259.0,3.0
+Systems Engineer,IT,7118.0,4.0
+Systems Engineer,Communications,6160.0,5.0
+Systems Engineer,Hardware,5853.0,6.0
+Systems Engineer,Network,5573.0,7.0
+Systems Engineer,Integration,5337.0,8.0
+Systems Engineer,Documentation,5163.0,9.0
+Systems Engineer,Operations,4952.0,10.0
+Systems Engineer,Infrastructure,4937.0,11.0
+Systems Engineer,Education,4769.0,12.0
+Systems Engineer,Implementation,4732.0,13.0
+Systems Engineer,configuration,4607.0,14.0
+Systems Engineer,Windows,4571.0,15.0
+Systems Engineer,Testing,4275.0,16.0
+Systems Engineer,Planning,4149.0,17.0
+Systems Engineer,Architecture,4083.0,18.0
+Systems Engineer,Troubleshooting,4023.0,19.0
+UI Developer,UI,923.0,0.0
+UI Developer,JavaScript,842.0,1.0
+UI Developer,CSS,584.0,2.0
+UI Developer,HTML5,482.0,3.0
+UI Developer,Software,472.0,4.0
+UI Developer,jQuery,457.0,5.0
+UI Developer,HTML,456.0,6.0
+UI Developer,CSS3,392.0,7.0
+UI Developer,IT,367.0,8.0
+UI Developer,Mobile,364.0,9.0
+UI Developer,AngularJS,355.0,10.0
+UI Developer,Agile,353.0,11.0
+UI Developer,Testing,313.0,12.0
+UI Developer,Communications,297.0,13.0
+UI Developer,Java,286.0,14.0
+UI Developer,Management,281.0,15.0
+UI Developer,AJAX,236.0,16.0
+UI Developer,Computer Science,236.0,17.0
+UI Developer,Engineering,232.0,18.0
+UI Developer,bootstrap,229.0,19.0
+UI/UX Designer,UI,659.0,0.0
+UI/UX Designer,UX,655.0,1.0
+UI/UX Designer,Mobile,454.0,2.0
+UI/UX Designer,HTML,357.0,3.0
+UI/UX Designer,CSS,354.0,4.0
+UI/UX Designer,Photoshop,342.0,5.0
+UI/UX Designer,Adobe,334.0,6.0
+UI/UX Designer,Illustrator,309.0,7.0
+UI/UX Designer,JavaScript,282.0,8.0
+UI/UX Designer,Communications,280.0,9.0
+UI/UX Designer,Software,280.0,10.0
+UI/UX Designer,Research,278.0,11.0
+UI/UX Designer,Prototyping,257.0,12.0
+UI/UX Designer,IT,253.0,13.0
+UI/UX Designer,Interfaces,252.0,14.0
+UI/UX Designer,Usability,239.0,15.0
+UI/UX Designer,Management,233.0,16.0
+UI/UX Designer,Testing,214.0,17.0
+UI/UX Designer,Marketing,200.0,18.0
+UI/UX Designer,Engineering,194.0,19.0
+Web Application Developer,JavaScript,1289.0,0.0
+Web Application Developer,Software,1015.0,1.0
+Web Application Developer,CSS,953.0,2.0
+Web Application Developer,HTML,902.0,3.0
+Web Application Developer,SQL,879.0,4.0
+Web Application Developer,IT,832.0,5.0
+Web Application Developer,jQuery,799.0,6.0
+Web Application Developer,Communications,762.0,7.0
+Web Application Developer,Management,747.0,8.0
+Web Application Developer,Testing,679.0,9.0
+Web Application Developer,Java,630.0,10.0
+Web Application Developer,Database,615.0,11.0
+Web Application Developer,Computer Science,613.0,12.0
+Web Application Developer,Programming,606.0,13.0
+Web Application Developer,Framework,542.0,14.0
+Web Application Developer,C#,537.0,15.0
+Web Application Developer,Education,489.0,16.0
+Web Application Developer,Engineering,487.0,17.0
+Web Application Developer,Security,471.0,18.0
+Web Application Developer,Agile,466.0,19.0
+Web Developer,JavaScript,6112.0,0.0
+Web Developer,HTML,4692.0,1.0
+Web Developer,CSS,4588.0,2.0
+Web Developer,Software,4005.0,3.0
+Web Developer,IT,3497.0,4.0
+Web Developer,Management,3425.0,5.0
+Web Developer,jQuery,3406.0,6.0
+Web Developer,Communications,2947.0,7.0
+Web Developer,SQL,2903.0,8.0
+Web Developer,Programming,2759.0,9.0
+Web Developer,Testing,2568.0,10.0
+Web Developer,HTML5,2415.0,11.0
+Web Developer,PHP,2273.0,12.0
+Web Developer,Database,2238.0,13.0
+Web Developer,Java,2235.0,14.0
+Web Developer,Computer Science,2122.0,15.0
+Web Developer,Security,2028.0,16.0
+Web Developer,Mobile,1919.0,17.0
+Web Developer,Integration,1822.0,18.0
+Web Developer,Education,1779.0,19.0
